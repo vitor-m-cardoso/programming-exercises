@@ -1,0 +1,1 @@
+Na data da criação deste documento estava desenvolvendo habilidades com o terminal do Linux, aprendendo os fundamentos do Git e Github. Ao longo da trajetória desenvolverei habilidades técnicas tais como: JavaScript, HTML, CSS, React, Node, Express.js, SQL, NoSQL, Python, ORM, Algoritmos e estrutura de dados. Também estarei desenvolvendo as habilidades sociocomportamentais.
