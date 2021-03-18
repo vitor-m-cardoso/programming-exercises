@@ -7,32 +7,50 @@
      h1 {
        font-size: 65px;
        color: orange;
+       font-family: sans-serif;
      }
      
-     #changecolor {
+     .list-styles {
        background-color: lightgray;
+       line-height: 30px;
+       text-decoration: underline;
      }
      
      .changebackground {
        background-color: lightgreen;
      }
 
+     p {
+       font-weight: 600;
+       font-size: 3em;
+       font-style: italic;
+       text-align: center;
+     }
+
+     body {
+       font-size: 16px;
+     }
+
+     #yellow-list {
+       background-color: yellow;
+     }
+
+     #red-list {
+       background-color: red;
+     }
+
+     #brown-list {
+       background-color: brown;
+     }
     </style>
   </head>
   <body>
     <h1>Exercícios 3.2</h1>
     <p class="changebackground">Qual é a sua cor favorita?</p>
-    <ul class="changebackground" id="changecolor">
-      <li>Amarelo</li>
-      <li>Vermelho</li>
-      <li>Marrom</li>
+    <ul class="list-styles">
+      <li id="yellow-list">Amarelo</li>
+      <li id="red-list">Vermelho</li>
+      <li id="brown-list">Marrom</li>
     </ul>
-
-    <!-- Exercícios
- - Modifique o tamanho do h1 para 65 pixels
- - Modifique a cor do texto do h1 para laranja
- - Modifique a cor de fundo da lista não ordenada
- - Crie uma classe para modificar a cor de fundo da tag p e da ul ao mesmo tempo
-    -->
   </body>
 </html>
