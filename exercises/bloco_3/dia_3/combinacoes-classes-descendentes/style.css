@@ -1,3 +1,64 @@
+.ordened-style {
+  background-color: yellow;
+}
+
+ol li:nth-of-type(2n) {
+  color: green;
+}
+
+ol li:nth-child(2), ol li:nth-child(2n+3) {
+  text-transform: uppercase;
+}
+
+.title {
+  color: red;
+}
+
+.title em {
+  font-size: 40px;
+  border: 1px solid black;
+}
+
+li {
+  height: 20px;
+}
+
+li em {
+  font-weight: bolder;
+}
+
+.programming-languages {
+  color: blue;
+}
+
+.java {
+  background-color: pink;
+}
+
+.developer-ally li:hover {
+  font-weight: bold;
+}
+
+li #orange-color:hover {
+  color: orange;
+}
+
+.green-color:hover {
+  color: green;
+}
+
+#black-color:hover {
+  color: black;
+}
+
+#yellow-color:hover {
+  color: yellow;
+}
+
+
+
+
+
 
 
 /*
