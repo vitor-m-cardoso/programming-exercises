@@ -104,10 +104,40 @@ function mouseOut() {
 mouseOver();
 mouseOut();
 
-function addTaskList() {
+function addTaskList(phrases) {
   let taskList = document.createElement('span');
-  let myTasks = document.getElementsByClassName('my-tasks');
+  let myTasks = document.getElementsByClassName('my-tasks')[0];
+  
   myTasks.appendChild(taskList);
-
+  taskList.innerText = '\n' + phrases;
 };
 
+addTaskList('Correr');
+addLegendColor('green');
+
+function addLegendColor(colors) {
+  let colorDiv = document.getElementsByClassName('my-tasks')[0];
+  let createDiv = document.createElement('div');
+  createDiv.className = 'task';
+  colorDiv.appendChild(createDiv);
+  
+  createDiv.style.backgroundColor = colors;
+}
+
+addTaskList('Malhar')
+addLegendColor('yellow');
+
+function addEventClass() {
+  let selectedElement = document.getElementsByClassName('task selected');
+  let eventElement = querySelector('.task');
+
+  eventElement.addEventListener('click', function(event){
+    if (selectedElement.length === 0) {
+      event.target.className = 'task selected';
+    } else {
+      event.target.className = 'task';
+    }
+  });
+};
+
+addEventClass();

@@ -5,8 +5,64 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  
+  <h1>Formulário:</h1>
+  <form>
+    <fieldset>
+      <label> Nome:
+        <input type='text' name='nome' maxlength='40' placeholder='digite seu nome.' required>
+      </label>
+      <br><br>
+      <label> Email:
+        <input type='text' name='email' maxlength='50' placeholder='digite seu e-mail.' required>
+      </label>
+      <br><br>
+      <label> CPF:
+        <input type='text' name='cpf' maxlength='11' placeholder='Ex: 01234567890' required>
+      </label>
+      <br><br>
+      <label> Endereço:
+        <input type='text' name='end' maxlength='200' placeholder='digite seu endereço.' required>
+      </label>
+      <br><br>
+      <label> Cidade:
+        <input type='text' name='cidade' maxlength='28' placeholder='digite sua cidade.' required>
+      </label>
+      <br><br>
+      <label> Estado:
+        <select name='state' id='state' value='' required>
+        </select>
+      </label>
+      <br><br>
+      <label> Tipo:
+        <input type='radio' name='tipo'> Casa
+      </label>
+      <label>
+        <input type='radio' name='tipo'> Apartamento
+      </label>
+    </fieldset>
+    <br>
+    <fieldset>
+      <label> Resumo do currículo:
+        <br>
+        <textarea name='resumo' maxlength='1000' id='text-resize' rows='6' cols='48' required></textarea>
+      </label>
+      <br><br>
+      <label> Cargo:
+        <input type='text' name ='cargo' maxlength='40' placeholder='digite seu cargo.' required>
+      </label>
+      <br><br>
+      <label> Descrição do cargo:
+        <input type='text' name ='descricao-cargo' maxlength='500' placeholder='descreva o cargo.' required>
+      </label>
+      <br><br>
+      <label> Data de início:
+        <input type='text' name='date' value='' required>
+      </label>
+    </fieldset>
+    <script src='script.js'></script>
+  </form>
 </body>
 </html>
