@@ -71,7 +71,7 @@ createFirstDiv.removeChild(leftDiv);
 rightDiv.style.marginRight = 'auto';
 
 // 5. Troque a cor de fundo do elemento pai da div criada no passo 3 (aquela que possui a classe center-content ) para a cor verde;
-createSecondDiv.style.backgroundColor = 'green';
+createSecondDiv.parentElement.style.backgroundColor = 'green';
 
 // 6. Remova os dois últimos elementos ( nove e dez ) da lista criada no passo 8.
 
