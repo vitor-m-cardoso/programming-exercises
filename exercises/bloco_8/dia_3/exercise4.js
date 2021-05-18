@@ -1,4 +1,4 @@
-const assert = require('assert');
+// const assert = require('assert');
 
 const books = [
   {
@@ -63,11 +63,39 @@ const books = [
   },
 ];
 
-const expectedResult = false;
+const expectedResult = [
+  {
+    id: 6,
+    name: 'O Chamado de Cthulhu',
+    genre: 'Terror',
+    author: { name: 'H. P. Lovecraft', birthYear: 1890 },
+    releaseYear: 1928,
+  },
+  {
+    id: 3,
+    name: 'Fundação',
+    genre: 'Ficção Científica',
+    author: { name: 'Isaac Asimov', birthYear: 1920 },
+    releaseYear: 1951,
+  },
+  {
+    id: 2,
+    name: 'O Senhor dos Anéis',
+    genre: 'Fantasia',
+    author: { name: 'J. R. R. Tolkien', birthYear: 1892 },
+    releaseYear: 1954,
+  },
+];
 
-function everyoneWasBornOnSecXX() {
+function oldBooks() {
   // escreva seu código aqui
-  return books.every(autor => autor.birthYear > 1901 ? true : false);
+  const relYear = books.map(book => {
+    if (book.releaseYear > 60) ({
+      publication: 2021 - book.releaseYear,
+    });
+    return relYear; 
+  });
 }
+console.log(oldBooks());
 
-assert.strictEqual(everyoneWasBornOnSecXX(), expectedResult);
+// assert.deepStrictEqual(oldBooks(), expectedResult);

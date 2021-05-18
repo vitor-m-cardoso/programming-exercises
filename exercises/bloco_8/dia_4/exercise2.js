@@ -1,3 +1,4 @@
+
 const assert = require('assert');
 
 const books = [
@@ -63,11 +64,9 @@ const books = [
   },
 ];
 
-const expectedResult = false;
-
-function everyoneWasBornOnSecXX() {
+function allNames() {
   // escreva seu código aqui
-  return books.every(autor => autor.birthYear > 1901 ? true : false);
+  
 }
 
-assert.strictEqual(everyoneWasBornOnSecXX(), expectedResult);
+assert.deepStrictEqual(allNames(), 'Nomes: George R. R. Martin, J. R. R. Tolkien, Isaac Asimov, Frank Herbert, Stephen King, H. P. Lovecraft.');
