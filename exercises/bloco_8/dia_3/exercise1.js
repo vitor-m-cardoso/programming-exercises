@@ -1,4 +1,4 @@
-// const assert = require('assert');
+const assert = require('assert');
 
 const books = [
   {
@@ -63,17 +63,18 @@ const books = [
   },
 ];
 
-const expectedResult = false;
+const expectedResult = [
+  'As Crônicas de Gelo e Fogo - Fantasia - George R. R. Martin',
+  'O Senhor dos Anéis - Fantasia - J. R. R. Tolkien',
+  'Fundação - Ficção Científica - Isaac Asimov',
+  'Duna - Ficção Científica - Frank Herbert',
+  'A Coisa - Terror - Stephen King',
+  'O Chamado de Cthulhu - Terror - H. P. Lovecraft',
+];
 
-function authorUnique() {
+function formatedBookNames() {
   // escreva seu código aqui
-  books.forEach(autor => {
-    if (autor.author.birthYear === autor.author.birthYear) {
-      console.log(autor)
-      let autorBirthYear = false;
-    }
-    let autorBirthYear = true;
-  });
+  return books.map(newArray => `${newArray.name} - ${newArray.genre} - ${newArray.author.name}`);
 }
 
-// assert.strictEqual(authorUnique(), expectedResult);
+assert.deepStrictEqual(formatedBookNames(), expectedResult);

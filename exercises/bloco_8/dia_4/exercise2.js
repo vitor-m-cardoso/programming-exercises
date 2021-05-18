@@ -1,4 +1,5 @@
-// const assert = require('assert');
+
+const assert = require('assert');
 
 const books = [
   {
@@ -63,17 +64,9 @@ const books = [
   },
 ];
 
-const expectedResult = false;
-
-function authorUnique() {
+function allNames() {
   // escreva seu código aqui
-  books.forEach(autor => {
-    if (autor.author.birthYear === autor.author.birthYear) {
-      console.log(autor)
-      let autorBirthYear = false;
-    }
-    let autorBirthYear = true;
-  });
+  
 }
 
-// assert.strictEqual(authorUnique(), expectedResult);
+assert.deepStrictEqual(allNames(), 'Nomes: George R. R. Martin, J. R. R. Tolkien, Isaac Asimov, Frank Herbert, Stephen King, H. P. Lovecraft.');
