@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 const Task = (value) => {
   return (
-    <li>{value}</li>
+    <li key={value}>{value}</li>
   );
 }
 
