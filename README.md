@@ -80,7 +80,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 10-3: _Jest - Simulando comportamentos_
 - [x] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
-## Desenvolvimento Front-end :white_check_mark:
+## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução à React.
 
