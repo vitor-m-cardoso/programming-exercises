@@ -22,7 +22,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [x] 3-5: _[Projeto - Lessons Learned (HTML e CSS)]()_
+- [x] 3-5: _[Projeto - Lessons Learned (HTML e CSS)](https://github.com/tryber/sd-011-project-lessons-learned/pull/16/files)_
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação.
 
@@ -30,7 +30,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [x] 4-4: _JavaScript - Objetos e Funções_
-- [x] 4-5: _[Projeto - Playground Functions (JavaScript)]()_
+- [x] 4-5: _[Projeto - Playground Functions (JavaScript)](https://github.com/tryber/sd-011-project-playground-functions/pull/77/files)_
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage.
 
@@ -39,8 +39,8 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
 - [x] _Fundamentos - JavaScript - Projetos_
-- [x] 5-5: _[Projeto - PixelArt]()_
-- [x] 5-5: _[Projeto - Todo List]()_
+- [x] 5-5: _[Projeto - PixelArt](https://github.com/tryber/sd-011-project-pixels-art/pull/34/files)_
+- [x] 5-5: _[Projeto - Todo List](https://github.com/tryber/sd-011-project-todo-list/pull/118/files)_
 
 ##### Bloco 6: HTML e CSS: Forms, Felxbox e Responsivo.
 
@@ -49,14 +49,14 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
-- [x] 6-6: _[Projeto - Trybewarts]()_
+- [x] 6-6: _[Projeto - Trybewarts](https://github.com/tryber/sd-011-project-trybewarts/pull/105/files)_
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários.
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Testes unitários em JavaScript_
-- [x] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [x] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-011-project-js-unit-tests/pull/59/files)_
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6.
 
@@ -65,20 +65,20 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [x] 8-6: _[Projeto - Zoo functions]()_
+- [x] 8-6: _[Projeto - Zoo functions](https://github.com/tryber/sd-011-project-zoo-functions/pull/141/files)_
 
 ##### Bloco 9: JavaScript Assíncrono e Promises.
 
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Promises_
-- [x] 9-3: _[Projeto - Carrinho de Compras]()_
+- [x] 9-3: _[Projeto - Carrinho de Compras](https://github.com/tryber/sd-011-project-shopping-cart/pull/103/files)_
 
 ##### Bloco 10: Testes automatizados com Jest.
 
 - [x] 10-1: _Primeiros passos no Jest_
 - [x] 10-2: _Jest - Testes Assíncronos_
 - [x] 10-3: _Jest - Simulando comportamentos_
-- [x] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+- [x] 10-4: _[Projeto - Jest Assíncrono e Mocking](https://github.com/tryber/sd-011-project-jest/pull/85/files)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
@@ -86,31 +86,31 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 11-1: _'Hello, world!' no React!_
 - [x] 11-2: _Componentes React_
-- [x] 11-3: _[Projeto - Movie Cards Library]()_
+- [x] 11-3: _[Projeto - Movie Cards Library](https://github.com/tryber/sd-011-project-movie-cards-library/pull/58/files)_
 
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React.
 
 - [x] 12-1: _Components com estado e eventos_
 - [x] 12-2: _Formulários no React_
-- [x] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [x] 12-3: _[Projeto - Movie Cards Library Stateful](https://github.com/tryber/sd-011-project-movie-cards-library-stateful/pull/81/files)_
 
 ##### Bloco 13: Ciclo de Vida de Componentes e React Router.
 
 - [x] 13-1: _Ciclo de vida de componentes_
 - [x] 13-2: _React Router_
-- [x] 13-3: _[Projeto - Movie Cards Library CRUD]()_
+- [x] 13-3: _[Projeto - Movie Cards Library CRUD](https://github.com/tryber/sd-011-project-movie-card-library-crud/pull/34/files)_
 
 ##### Bloco 14: Metodologias Ágeis
 
 - [x] 14-1: _Metodologias Ágeis_
-- [x] 14-2: _[Projeto - Frontend Online Store]()_
+- [x] 14-2: _[Projeto - Frontend Online Store](https://github.com/tryber/sd-011-project-frontend-online-store/pull/516/files)_
 
 ##### Bloco 15: Testes automatizados com React Testing Library.
 
 - [x] 15-1: _RTL - Primeiros passos_
 - [x] 15-2: _RTL - Mocks e Inputs_
 - [x] 15-2: _RTL - Testando React Router_
-- [x] 15-4: _[Projeto - Testes em React]()_
+- [x] 15-4: _[Projeto - Testes em React](https://github.com/tryber/sd-011-project-react-testing-library/pull/26/files)_
 
 ##### Bloco 16: Gerenciamento de estado com Redux.
 
@@ -119,11 +119,11 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 16-3: _Usando o Redux no React - Prática_
 - [x] 16-4: _Usando o Redux no React - Actions Assíncronas_
 - [x] 16-5: _Testes em React-Redux_
-- [x] 16-6: _[Projeto - Trybe Wallet]()_
+- [x] 16-6: _[Projeto - Trybe Wallet](https://github.com/tryber/sd-011-project-trybewallet/pull/12/files)_
 
 ##### Bloco 17: Projeto Jogo de Trivia.
 
-- [x] 17-1: _[Projeto - Jogo de Trivia]()_
+- [x] 17-1: _[Projeto - Jogo de Trivia](https://github.com/tryber/sd-011-project-trivia-react-redux/pull/446/files)_
 
 ##### Bloco 18: Context API e React Hooks.
 
