@@ -80,7 +80,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 10-3: _Jest - Simulando comportamentos_
 - [x] 10-4: _[Projeto - Jest Assíncrono e Mocking](https://github.com/tryber/sd-011-project-jest/pull/85/files)_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :white_check_mark:
 
 ##### Bloco 11: Introdução à React.
 
@@ -130,11 +130,11 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 18-1: _Context API do React_
 - [x] 18-2: _React Hooks - useState e useContext_
 - [x] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [x] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
 ##### Bloco 19: Projeto App de Receitas.
 
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+- [x] 19-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
