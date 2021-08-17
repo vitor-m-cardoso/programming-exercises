@@ -1,7 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Vitor Mauricio Cardoso](https://www.linkedin.com/in/vitormcardoso/)_ enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket::rocket:
-
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Vitor Mauricio Cardoso](https://www.linkedin.com/in/vitormcardoso/)_
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
 ##### Bloco 1: Introdução - Unix & Bash.
