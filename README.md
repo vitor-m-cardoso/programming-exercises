@@ -39,7 +39,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
 - [x] _Fundamentos - JavaScript - Projetos_
-- [x] 5-5: _[Projeto - PixelArt](https://github.com/tryber/sd-011-project-pixels-art/pull/34/files)_
+- [x] 5-5: _[Projeto - PixelArt](https://vitor-m-cardoso.github.io/project-pixel-art/)_
 - [x] 5-5: _[Projeto - Todo List](https://github.com/tryber/sd-011-project-todo-list/pull/118/files)_
 
 ##### Bloco 6: HTML e CSS: Forms, Felxbox e Responsivo.
@@ -134,13 +134,13 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Bloco 19: Projeto App de Receitas.
 
-- [x] 19-1: _[Projeto - App de Receitas]()_
+- [x] 19-1: _[Projeto - App de Receitas](https://vitor-m-cardoso.github.io/recipes-app/)_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Bloco 20: Introdução à SQL.
 
-- [ ] 20-1: _Banco de dados SQL_
+- [x] 20-1: _Banco de dados SQL_
 - [ ] 20-2: _Encontrando dados em um banco de dados_
 - [ ] 20-3: _Filtrando dados de forma específica_
 - [ ] 20-4: _Manipulando tabelas_
