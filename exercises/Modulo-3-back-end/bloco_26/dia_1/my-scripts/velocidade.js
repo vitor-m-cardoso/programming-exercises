@@ -8,7 +8,7 @@ function calculaVelocidade() {
   
   const velocidade = (distancia / tempo);
 
-  console.log(`Velocidade: ${velocidade} m/s.`);
+  console.log(`Velocidade média: ${velocidade} m/s.`);
 
 };
 
