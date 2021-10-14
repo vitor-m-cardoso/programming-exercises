@@ -167,32 +167,32 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Bloco 24: MongoDB: Updates Simples e Complexos.
 
-- [ ] 24-1: _Updates Simples_
-- [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 24-4: _[Projeto - Commerce]()_
+- [x] 24-1: _Updates Simples_
+- [x] 24-2: _Updates Complexos - Arrays - Parte 1_
+- [x] 24-3: _Updates Complexos - Arrays - Parte 2_
+- [x] 24-4: _[Projeto - Commerce](https://github.com/tryber/sd-011-mongodb-commerce/pull/5)_
 
 ##### Bloco 25: MongoDB: Aggregation Framework.
 
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Projeto - Aggregations]()_
+- [x] 25-1: _Aggregation Framework - Part 1_
+- [x] 25-2: _Aggregation Framework - Part 2_
+- [x] 25-3: _[Projeto - Aggregations](https://github.com/tryber/sd-011-mongodb-aggregations/pull/31)_
 
 ##### Bloco 26: Introdução ao desenvolvimento Web com NodeJS
 
-- [ ] 26-1: _NodeJS - Introdução_
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 26-3: _Testes com NodeJS_
-- [ ] 26-4: _Expess: HTTP com Node.js_
-- [ ] 26-5: _Praticando Express_
-- [ ] 26-6: _[Projeto - Talker Manager]()_
+- [x] 26-1: _NodeJS - Introdução_
+- [x] 26-2: _NodeJS - Fluxo Assíncrono_
+- [x] 26-3: _Testes com NodeJS_
+- [x] 26-4: _Expess: HTTP com Node.js_
+- [x] 26-5: _Praticando Express_
+- [x] 26-6: _[Projeto - Talker Manager](https://github.com/tryber/sd-011-project-talker-manager/pull/23)_
 
 ##### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful.
 
-- [ ] 27-1: _Arquitetura de Software - Camada de Model_
-- [ ] 27-2: _Arquitetura de Software - Camada de Controller e Service_
-- [ ] 27-3: _Arquitetura Web - Rest e Restful_
-- [ ] 27-4: _Arquitetura de Software - Testando as Camadas_
+- [x] 27-1: _Arquitetura de Software - Camada de Model_
+- [x] 27-2: _Arquitetura de Software - Camada de Controller e Service_
+- [x] 27-3: _Arquitetura Web - Rest e Restful_
+- [x] 27-4: _Arquitetura de Software - Testando as Camadas_
 - [ ] 27-5: _[Projeto - Store Manager]()_
 
 ##### Bloco 28: Autenticação e Upload de Arquivos.
