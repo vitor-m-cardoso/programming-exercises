@@ -135,7 +135,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 19-1: _[Projeto - App de Receitas](https://vitor-m-cardoso.github.io/recipes-app/)_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end :white_check_mark:
 
 ##### Bloco 20: Introdução à SQL.
 
@@ -193,83 +193,85 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 27-2: _Arquitetura de Software - Camada de Controller e Service_
 - [x] 27-3: _Arquitetura Web - Rest e Restful_
 - [x] 27-4: _Arquitetura de Software - Testando as Camadas_
-- [ ] 27-5: _[Projeto - Store Manager]()_
+- [x] 27-5: _[Projeto - Store Manager](https://github.com/tryber/sd-011-store-manager/pull/72)_
 
 ##### Bloco 28: Autenticação e Upload de Arquivos.
 
-- [ ] 28-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 28-2: _NodeJS - Upload de arquivos com multer_
-- [ ] 28-3: _NodeJS - Testando APIs com Testes de Integração_
-- [ ] 28-4: _[Projeto - Cookmaster]()_
+- [x] 28-1: _NodeJS - JWT - (JSON Web Token)_
+- [x] 28-2: _NodeJS - Upload de arquivos com multer_
+- [x] 28-3: _NodeJS - Testando APIs com Testes de Integração_
+- [x] 28-4: _[Projeto - Cookmaster](https://github.com/tryber/sd-011-cookmaster/pull/94)_
 
 ##### Bloco 29: Deployment
 
-- [ ] 29-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 29-2: _Deploy - Gerenciadores de Processos_
-- [ ] 29-3: _[Projeto - Stranger Things]()_
+- [x] 29-1: _Infraestrutura - Deploy com Heroku_
+- [x] 29-2: _Deploy - Gerenciadores de Processos_
+- [x] 29-3: _[Projeto - Stranger Things Frontend](https://github.com/tryber/sd-011-stranger-things-frontend/pull/25)_
+- [x] 29-3: _[Projeto - Stranger Things Backend](https://github.com/tryber/sd-011-stranger-things-backend/pull/51)_
 
 ##### Bloco 30: Arquitetura: SOLID e ORM.
 
-- [ ] 30-1: _Arquitetura - Princípios SOLID_
-- [ ] 30-2: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 30-2: _ORM - Associations_
-- [ ] 30-3: _[Projeto - API de Blogs]()_
+- [x] 30-1: _Arquitetura - Princípios SOLID_
+- [x] 30-2: _ORM - Interface da aplicação com o banco de dados_
+- [x] 30-2: _ORM - Associations_
+- [x] 30-3: _[Projeto - API de Blogs](https://github.com/tryber/sd-011-project-blogs-api/pull/57)_
 
 ##### Bloco 31: Sockets.
 
-- [ ] 31-1: _Arquitetura de Sotware - Camada de View_
-- [ ] 31-2: _Sockets - TCP/UDP & NET_
-- [ ] 31-3: _Sockets - Socket.io_
-- [ ] 31-4: _Sockets - Praticando Socket.io_
-- [ ] 31-3: _[Projeto - Webchat]()_
+- [x] 31-1: _Arquitetura de Sotware - Camada de View_
+- [x] 31-2: _Sockets - TCP/UDP & NET_
+- [x] 31-3: _Sockets - Socket.io_
+- [x] 31-4: _Sockets - Praticando Socket.io_
+- [x] 31-3: _[Projeto - Webchat](https://github.com/tryber/sd-011-project-webchat/pull/65)_
 
 ##### Bloco 32: Projeto Trybeer.
 
-- [ ] 32-1: _[Projeto - Trybeer]()_
+- [x] 32-1: _[Projeto - Delivery App](https://github.com/tryber/sd-011-project-delivery-app/pull/46)_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 33: Arquitetura de Computadores e Redes.
+##### Bloco 33: Introdução à Python.
 
-- [ ] 33-1: _Arquitetura de Computadores_
-- [ ] 33-2: _Arquitetura de redes_
-- [ ] 33-3: _Redes de computadores, ferramentas e segurança_
-- [ ] 33-4: _[Projeto - Explorando os protocolos]()_
+- [x] 33-1: _Introdução - Ciência da Computação_
+- [ ] 33-1: _Aprendendo Python_
+- [ ] 33-2: _Entrada e Saída de Dados_
+- [ ] 33-3: _Testes_
+- [ ] 33-4: _[Projeto - Job Insights]()_
 
-##### Bloco 34: Introdução à Python e Raspagem de Dados da Web.
-
-- [ ] 34-1: _Aprendendo Python_
-- [ ] 34-2: _Entrada e Saida de Dados_
-- [ ] 34-3: _Raspagem de Dados_
-- [ ] 34-4: _Testes_
-- [ ] 34-5: _[Projeto - Tech news]()_
-
-##### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto.
+##### Bloco 34: Programação Orientada a Objetos e Padrões de Projeto.
 
 - [ ] 35-1: _Introdução a Programação Orientada a Objetos_
 - [ ] 35-2: _Herança, Composição e Interfaces_
 - [ ] 35-3: _Padrões de projeto_
 - [ ] 35-4: _[Projeto - Relatórios de Estoque]()_
 
-##### Bloco 36: Algoritmos e Estrutura de Dados.
+##### Bloco 35: Raspagem de Dados.
+
+- [ ] 34-1: _Arquitetura de redes_
+- [ ] 34-2: _Redes de computadores, ferramentas e segurança_
+- [ ] 34-3: _Raspagem de Dados_
+- [ ] 34-4: _[Projeto - Tech news]()_
+
+##### Bloco 36: Algoritmos.
 
 - [ ] 36-1: _Complexidade de Algoritmos_
 - [ ] 36-2: _Recursividade e Estratégias para solução de problemas_
 - [ ] 36-3: _Algoritmos de ordenação e busca_
 - [ ] 36-4: _[Projeto - Algoritmos]()_
 
-##### Bloco 37: Estrutura de Dados: Hash e Set.
+##### Bloco 37: Estrutura de Dados I: Arrays, Hashmaps e Sets.
 
-- [ ] 37-1: _Arrays_
-- [ ] 37-2: _Hashmap e Dict_
-- [ ] 37-3: _Set_
-- [ ] 37-4: _[Projeto - Restaurant Orders]()_
+- [ ] 37-1: _Arquitetura de Computadores_
+- [ ] 37.2: _Arrays_
+- [ ] 37-3: _Hashmap e Dict_
+- [ ] 37-4: _Set_
+- [ ] 37-5: _[Projeto - Restaurant Orders]()_
 
-##### Bloco 38: Estrutura de Dados: Pilhas, Filas e Listas.
+##### Bloco 38: Estrutura de Dados II: Listas , Filas e Pilhas.
 
 - [ ] 38-1: _Nó e Listas Encadeadas_
 - [ ] 38-2: _Deque_
-- [ ] 38-3: _Pilhas_
+- [ ] 38-3: _Pilhas e Filas_
 - [ ] 38-4: _[Projeto - TING - Trybe Is Not Google]()_
 
 
