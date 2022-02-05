@@ -233,24 +233,24 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Bloco 33: Introdução à Python.
 
 - [x] 33-1: _Introdução - Ciência da Computação_
-- [ ] 33-1: _Aprendendo Python_
-- [ ] 33-2: _Entrada e Saída de Dados_
-- [ ] 33-3: _Testes_
-- [ ] 33-4: _[Projeto - Job Insights]()_
+- [x] 33-1: _Aprendendo Python_
+- [x] 33-2: _Entrada e Saída de Dados_
+- [x] 33-3: _Testes_
+- [x] 33-4: _[Projeto - Job Insights](https://github.com/tryber/sd-011-project-job-insights/pull/103)_
 
 ##### Bloco 34: Programação Orientada a Objetos e Padrões de Projeto.
 
-- [ ] 35-1: _Introdução a Programação Orientada a Objetos_
-- [ ] 35-2: _Herança, Composição e Interfaces_
-- [ ] 35-3: _Padrões de projeto_
-- [ ] 35-4: _[Projeto - Relatórios de Estoque]()_
+- [x] 34-1: _Introdução a Programação Orientada a Objetos_
+- [x] 34-2: _Herança, Composição e Interfaces_
+- [x] 34-3: _Padrões de projeto_
+- [x] 34-4: _[Projeto - Relatórios de Estoque](https://github.com/tryber/sd-011-inventory-report/pull/164)_
 
 ##### Bloco 35: Raspagem de Dados.
 
-- [ ] 34-1: _Arquitetura de redes_
-- [ ] 34-2: _Redes de computadores, ferramentas e segurança_
-- [ ] 34-3: _Raspagem de Dados_
-- [ ] 34-4: _[Projeto - Tech news]()_
+- [x] 35-1: _Arquitetura de redes_
+- [x] 35-2: _Redes de computadores, ferramentas e segurança_
+- [ ] 35-3: _Raspagem de Dados_
+- [ ] 35-4: _[Projeto - Tech news]()_
 
 ##### Bloco 36: Algoritmos.
 
