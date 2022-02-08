@@ -249,7 +249,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 35-1: _Arquitetura de redes_
 - [x] 35-2: _Redes de computadores, ferramentas e segurança_
-- [ ] 35-3: _Raspagem de Dados_
+- [x] 35-3: _Raspagem de Dados_
 - [ ] 35-4: _[Projeto - Tech news]()_
 
 ##### Bloco 36: Algoritmos.
