@@ -250,19 +250,19 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 35-1: _Arquitetura de redes_
 - [x] 35-2: _Redes de computadores, ferramentas e segurança_
 - [x] 35-3: _Raspagem de Dados_
-- [ ] 35-4: _[Projeto - Tech news]()_
+- [x] 35-4: _[Projeto - Tech news](https://github.com/tryber/sd-011-tech-news/pull/5)_
 
 ##### Bloco 36: Algoritmos.
 
-- [ ] 36-1: _Complexidade de Algoritmos_
-- [ ] 36-2: _Recursividade e Estratégias para solução de problemas_
-- [ ] 36-3: _Algoritmos de ordenação e busca_
-- [ ] 36-4: _[Projeto - Algoritmos]()_
+- [x] 36-1: _Complexidade de Algoritmos_
+- [x] 36-2: _Recursividade e Estratégias para solução de problemas_
+- [x] 36-3: _Algoritmos de ordenação e busca_
+- [x] 36-4: _[Projeto - Algoritmos](https://github.com/tryber/sd-011-project-algorithms/pull/31)_
 
 ##### Bloco 37: Estrutura de Dados I: Arrays, Hashmaps e Sets.
 
-- [ ] 37-1: _Arquitetura de Computadores_
-- [ ] 37.2: _Arrays_
+- [x] 37-1: _Arquitetura de Computadores_
+- [x] 37.2: _Arrays_
 - [ ] 37-3: _Hashmap e Dict_
 - [ ] 37-4: _Set_
 - [ ] 37-5: _[Projeto - Restaurant Orders]()_
