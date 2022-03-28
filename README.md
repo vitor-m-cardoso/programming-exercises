@@ -228,7 +228,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 32-1: _[Projeto - Delivery App](https://github.com/tryber/sd-011-project-delivery-app/pull/46)_
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação :white_check_mark:
 
 ##### Bloco 33: Introdução à Python.
 
@@ -263,16 +263,16 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 37-1: _Arquitetura de Computadores_
 - [x] 37.2: _Arrays_
-- [ ] 37-3: _Hashmap e Dict_
-- [ ] 37-4: _Set_
-- [ ] 37-5: _[Projeto - Restaurant Orders]()_
+- [x] 37-3: _Hashmap e Dict_
+- [x] 37-4: _Set_
+- [x] 37-5: _[Projeto - Restaurant Orders](https://github.com/tryber/sd-011-restaurant-orders/pull/9)_
 
 ##### Bloco 38: Estrutura de Dados II: Listas , Filas e Pilhas.
 
-- [ ] 38-1: _Nó e Listas Encadeadas_
-- [ ] 38-2: _Deque_
-- [ ] 38-3: _Pilhas e Filas_
-- [ ] 38-4: _[Projeto - TING - Trybe Is Not Google]()_
+- [x] 38-1: _Nó e Listas Encadeadas_
+- [x] 38-2: _Deque_
+- [x] 38-3: _Pilhas e Filas_
+- [x] 38-4: _[Projeto - TING - Trybe Is Not Google](https://github.com/tryber/sd-011-project-ting/pull/80)_
 
 
 # [...]
