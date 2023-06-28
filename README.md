@@ -1,149 +1,140 @@
 # Trybe
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Vitor Mauricio Cardoso](https://www.linkedin.com/in/vitormcardoso/)_
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Módulo de Fundamentos do Desenvolvimento Web :white_check_mark:
 
-##### Bloco 1: Introdução - Unix & Bash.
+### Seção 1: Unix, Shell e Git.
 
-- [x] 1-1: _Fundamentos do Desenvolvimento Web_
-- [x] 1-2: _Unix & Shell_
-- [x] 1-3: _Unix & Bash
+- [x] 1-1: _Unix & Shell_
+- [x] 1-2: _Git - O que é e para que serve_
+- [x] 1-3: _Git & GitHub - Entendendo os comandos_
 
-##### Bloco 2: Git & GitHub e Internet.
+### Seção 2: Introdução à HTML & CSS.
 
-- [x] 2-1: _O que é e para que serve_
-- [x] 2-2: _Entendendo os comandos_
-- [x] 2-3: _Internet - Entendendo como ela funciona_
+- [x] 2-1: _HTML & CSS - Estruturas de página_
+- [x] 2-2: _HTML & CSS - Primeiros passos em CSS_
+- [x] 2-3: _HTML & CSS - Seletores e posicionamento_
+- [x] 2-4: _HTML Semântico_
+- [ ] 2-5: _[Projeto - Lessons Learned (HTML e CSS)]()_
 
-##### Bloco 3: Introdução - HTML & CSS.
+### Seção 3: Introdução à JavaScript.
 
-- [x] 3-1: _HTML & CSS - Estruturas de página_
-- [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
-- [x] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [x] 3-4: _HTML Semântico_
-- [x] 3-5: _[Projeto - Lessons Learned (HTML e CSS)](https://github.com/tryber/sd-011-project-lessons-learned/pull/16/files)_
+- [x] 3-1: _Primeiros passos no JavaScript_
+- [x] 3-2: _Array e estrutura de repetição_
+- [x] 3-3: _Funções_
+- [x] 3-4: _Objetos_
+- [x] 3-5: _JSON e dia de prática_
+- [ ] 3-6: _[Projeto - Supermercado Pirilampo (JavaScript)]()_
 
-##### Bloco 4: Introdução à JavaScript e Lógica de Programação.
+### Seção 4: JavaScript: DOM, Eventos e Web Storage.
 
-- [x] 4-1: _JavaScript - Primeiros passos_
-- [x] 4-2: _JavaScript - Array e loop For_
-- [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [x] 4-4: _JavaScript - Objetos e Funções_
-- [x] 4-5: _[Projeto - Playground Functions (JavaScript)](https://github.com/tryber/sd-011-project-playground-functions/pull/77/files)_
+- [x] 4-1: _JavaScript - DOM e seletores_
+- [x] 4-2: _JavaScript - Trabalhando com elementos_
+- [x] 4-3: _JavaScript - Eventos_
+- [x] 4-4: _JavaScript - Web Storage_
+- [ ] 4-5: _[Projeto - PixelArt]()_
+- [ ] 4-6: _[Projetos bônus]()_
 
-##### Bloco 5: JavaScript: DOM, Eventos e Web Storage.
+### Seção 5: HTML e CSS: Forms, Felxbox e Responsivo.
 
-- [x] 5-1: _JavaScript - DOM e seletores_
-- [x] 5-2: _JavaScript - Trabalhando com elementos_
-- [x] 5-3: _JavaScript - Eventos_
-- [x] 5-4: _JavaScript - Web Storage_
-- [x] _Fundamentos - JavaScript - Projetos_
-- [x] 5-5: _[Projeto - PixelArt](https://vitor-m-cardoso.github.io/project-pixel-art/)_
-- [x] 5-5: _[Projeto - Todo List](https://github.com/tryber/sd-011-project-todo-list/pull/118/files)_
+- [x] 5-1: _HTML & CSS - Forms_
+- [x] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [x] 5-3: _CSS Flexbox - Part 1_
+- [x] 5-4: _CSS Flexbox - Part 2_
+- [x] 5-5: _Responsividade_
+- [ ] 5-6: _[Projeto - Trybewarts]()_
 
-##### Bloco 6: HTML e CSS: Forms, Felxbox e Responsivo.
+### Seção 6: JavaScript ES6 & Testes Unitários.
 
-- [x] 6-1: _HTML & CSS - Forms_
-- [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [x] 6-3: _CSS Flexbox - Part 1_
-- [x] 6-4: _CSS Flexbox - Part 2_
-- [x] 6-5: _CSS Responsivo - Mobile First_
-- [x] 6-6: _[Projeto - Trybewarts](https://github.com/tryber/sd-011-project-trybewarts/pull/105/files)_
+- [x] 6-1: _Fluxo de exceções_
+- [x] 6-2: _Primeiros passos em Jest_
+- [x] 6-3: _Matchers e cobertura de código_
+- [ ] 6-4: _[Projeto - JavaScript Testes Unitários]()_
 
-##### Bloco 7: JavaScript ES6 & Testes Unitários.
+### Seção 7: Higher Order Functions do JavaScript ES6.
 
-- [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [x] 7-2: _JavaScript ES6 - Objects_
-- [x] 7-3: _Testes unitários em JavaScript_
-- [x] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-011-project-js-unit-tests/pull/59/files)_
+- [x] 7-1: _Introdução a Higher Order Functions_
+- [x] 7-2: _Higher Order Functions - sort, map_
+- [x] 7-3: _Higher Order Functions - filter e reduce_
+- [x] 7-4: _JavaScript ES6 - spread operator, rest parameters e objet destructuring_
+- [x] 7-5: _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
+- [ ] 7-6: _[Projeto - Zoo functions]()_
 
-##### Bloco 8: Higher Order Functions do JavaScript ES6.
+## Módulo de Desenvolvimento Front-end :white_check_mark:
 
-- [x] 8-1: _JavaScript ES6 - Higher Order Functions_
-- [x] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [x] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [x] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
-- [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [x] 8-6: _[Projeto - Zoo functions](https://github.com/tryber/sd-011-project-zoo-functions/pull/141/files)_
+### Seção 1: Introdução ao Frontend e JavaScript Assíncrono.
 
-##### Bloco 9: JavaScript Assíncrono e Promises.
+- [ ] 1-1: _Ambiente de desenvolvimento_
+- [ ] 1-2: _JavaScript Assíncrono - Promises e fetch_
+- [ ] 1-3: _Prática: Casa de Câmbio_
+- [ ] 1-4: _Async, await e testes assíncronos_
+- [ ] 1-5: _[Projeto - iChoveu]()_
 
-- [x] 9-1: _JavaScript Assíncrono e Callbacks_
-- [x] 9-2: _JavaScript Promises_
-- [x] 9-3: _[Projeto - Carrinho de Compras](https://github.com/tryber/sd-011-project-shopping-cart/pull/103/files)_
+### Seção 2: Introdução ao React.
 
-##### Bloco 10: Testes automatizados com Jest.
+- [ ] 2-1: _Introdução ao React e ao TypeScript_
+- [ ] 2-2: _Componentes React e Props_
+- [ ] 2-3: _Avançando em componentes_
+- [ ] 2-4: _Prática - Solar System_
+- [ ] 2-5: _Estados e eventos_
+- [ ] 2-6: _Formulários_
+- [ ] 2-7: _Prática - Store Back Office_
+- [ ] 2-8: _Projeto - Password Manager_
 
-- [x] 10-1: _Primeiros passos no Jest_
-- [x] 10-2: _Jest - Testes Assíncronos_
-- [x] 10-3: _Jest - Simulando comportamentos_
-- [x] 10-4: _[Projeto - Jest Assíncrono e Mocking](https://github.com/tryber/sd-011-project-jest/pull/85/files)_
 
-## Desenvolvimento Front-end :white_check_mark:
+### Seção 3: Aprofundando no React.
 
-##### Bloco 11: Introdução à React.
+- [ ] 3-1: _Reacr Router_
+- [ ] 3-2: _useEffect_
+- [ ] 3-3: _Prática - Clonando o Twitter_
+- [ ] 3-4: _Projeto - Trybetunes_
 
-- [x] 11-1: _'Hello, world!' no React!_
-- [x] 11-2: _Componentes React_
-- [x] 11-3: _[Projeto - Movie Cards Library](https://github.com/tryber/sd-011-project-movie-cards-library/pull/58/files)_
+### Seção 4: Testes automatizados com React Testing Library
 
-##### Bloco 12: Componentes com Estado, Eventos e Formulários com React.
+- [ ] 4-1: _Introdução a React Testing Library_
+- [ ] 4-2: _RTL: Mocks_
+- [ ] 4-3: _RTL: Testando com React Router_
+- [ ] 4-4: _Projeto - Testes em React_
 
-- [x] 12-1: _Components com estado e eventos_
-- [x] 12-2: _Formulários no React_
-- [x] 12-3: _[Projeto - Movie Cards Library Stateful](https://github.com/tryber/sd-011-project-movie-cards-library-stateful/pull/81/files)_
+### Seção 5: Estilização e Metodologia Ágil.
 
-##### Bloco 13: Ciclo de Vida de Componentes e React Router.
+- [ ] 5-1: _CSS Modules_
+- [ ] 5-2: _Styled Components_
+- [ ] 5-3: _Metodologias ágeis_
+- [ ] 5-4: _[Projeto - Frontend Online Store]( )_
 
-- [x] 13-1: _Ciclo de vida de componentes_
-- [x] 13-2: _React Router_
-- [x] 13-3: _[Projeto - Movie Cards Library CRUD](https://github.com/tryber/sd-011-project-movie-card-library-crud/pull/34/files)_
+### Seção 6: Gerenciamento de estado com Redux.
 
-##### Bloco 14: Metodologias Ágeis
+- [ ] 6-1: _Introdução ao Redux - O estado global da aplicação_
+- [ ] 6-2: _Usando o Redux no React_
+- [ ] 6-3: _Usando o Redux no React - Prática_
+- [ ] 6-4: _Usando o Redux no React - Actions Assíncronas_
+- [ ] 6-5: _Testes em React-Redux_
+- [ ] 6-6: _[Projeto - Trybe Wallet]( )_
 
-- [x] 14-1: _Metodologias Ágeis_
-- [x] 14-2: _[Projeto - Frontend Online Store](https://github.com/tryber/sd-011-project-frontend-online-store/pull/516/files)_
+### Seção 7: Projeto Jogo de Trivia.
 
-##### Bloco 15: Testes automatizados com React Testing Library.
+- [ ] 7-1: _[Projeto - Jogo de Trivia]( )_
 
-- [x] 15-1: _RTL - Primeiros passos_
-- [x] 15-2: _RTL - Mocks e Inputs_
-- [x] 15-2: _RTL - Testando React Router_
-- [x] 15-4: _[Projeto - Testes em React](https://github.com/tryber/sd-011-project-react-testing-library/pull/26/files)_
+### Seção 8: Context API e React Hooks.
 
-##### Bloco 16: Gerenciamento de estado com Redux.
+- [ ] 8-1: _React Hooks - useState e useEffect_
+- [ ] 8-2: _Context API_
+- [ ] 8-3: _Custom Hooks_
+- [ ] 8-4: _[Projeto - StarWars Datatable com Context API e Hooks]( )_
 
-- [x] 16-1: _Introdução ao Redux - O estado global da aplicação_
-- [x] 16-2: _Usando o Redux no React_
-- [x] 16-3: _Usando o Redux no React - Prática_
-- [x] 16-4: _Usando o Redux no React - Actions Assíncronas_
-- [x] 16-5: _Testes em React-Redux_
-- [x] 16-6: _[Projeto - Trybe Wallet](https://github.com/tryber/sd-011-project-trybewallet/pull/12/files)_
+### Seção 9: Projeto App de Receitas.
 
-##### Bloco 17: Projeto Jogo de Trivia.
+- [ ] 9-1: _[Projeto - App de Receitas](https://vitor-m-cardoso.github.io/recipes-app/)_
 
-- [x] 17-1: _[Projeto - Jogo de Trivia](https://github.com/tryber/sd-011-project-trivia-react-redux/pull/446/files)_
+## Módulo de Desenvolvimento Back-end :white_check_mark:
 
-##### Bloco 18: Context API e React Hooks.
+### Seção 1: Docker: Utilizando Containers.
 
-- [x] 18-1: _Context API do React_
-- [x] 18-2: _React Hooks - useState e useContext_
-- [x] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [x] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
-
-##### Bloco 19: Projeto App de Receitas.
-
-- [x] 19-1: _[Projeto - App de Receitas](https://vitor-m-cardoso.github.io/recipes-app/)_
-
-## Desenvolvimento Back-end :white_check_mark:
-
-##### Bloco 20: Introdução à SQL.
-
-- [x] 20-1: _Banco de dados SQL_
-- [x] 20-2: _Encontrando dados em um banco de dados_
-- [x] 20-3: _Filtrando dados de forma específica_
-- [x] 20-4: _Manipulando tabelas_
-- [x] 20-5: _[Projeto - All For One](https://github.com/tryber/sd-011-project-mysql-all-for-one/pull/2)_
+- [ ] 1-1: _Utilizando Containers - Docker_
+- [ ] 1-2: _Manipulando Imagens no Docker_
+- [ ] 1-3: _Orquestrando Containers com Docker Compose_
+- [ ] 1-4: _Projeto - Docker Todo-List_
 
 ##### Bloco 21: Funções SQL, Joins e Subqueries.
 
