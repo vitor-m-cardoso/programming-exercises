@@ -68,7 +68,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 1-2: _JavaScript Assíncrono - Promises e fetch_
 - [ ] 1-3: _Prática: Casa de Câmbio_
 - [ ] 1-4: _Async, await e testes assíncronos_
-- [ ] 1-5: _[Projeto - iChoveu]()_
+- [ ] 1-5: _[Projeto - iChoveu]( )_
 
 ### Seção 2: Introdução ao React.
 
@@ -79,7 +79,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 2-5: _Estados e eventos_
 - [ ] 2-6: _Formulários_
 - [ ] 2-7: _Prática - Store Back Office_
-- [ ] 2-8: _Projeto - Password Manager_
+- [ ] 2-8: _[Projeto - Password Manager]( )_
 
 
 ### Seção 3: Aprofundando no React.
@@ -87,14 +87,14 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 3-1: _Reacr Router_
 - [ ] 3-2: _useEffect_
 - [ ] 3-3: _Prática - Clonando o Twitter_
-- [ ] 3-4: _Projeto - Trybetunes_
+- [ ] 3-4: _[Projeto - Trybetunes]( )_
 
 ### Seção 4: Testes automatizados com React Testing Library
 
 - [ ] 4-1: _Introdução a React Testing Library_
 - [ ] 4-2: _RTL: Mocks_
 - [ ] 4-3: _RTL: Testando com React Router_
-- [ ] 4-4: _Projeto - Testes em React_
+- [ ] 4-4: _[Projeto - Testes em React]( )_
 
 ### Seção 5: Estilização e Metodologia Ágil.
 
@@ -134,90 +134,74 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 1-1: _Utilizando Containers - Docker_
 - [ ] 1-2: _Manipulando Imagens no Docker_
 - [ ] 1-3: _Orquestrando Containers com Docker Compose_
-- [ ] 1-4: _Projeto - Docker Todo-List_
+- [ ] 1-4: _[Projeto - Docker Todo-List]( )_
 
-##### Bloco 21: Funções SQL, Joins e Subqueries.
+### Seção 2: Introdução à SQL.
 
-- [x] 21-1: _Funções mais usadas no SQL_
-- [x] 21-2: _Descomplicando JOINs e UNIONs e Subqueries_
-- [x] 21-3: _Stored Routines & Stored Functions_
-- [x] 21-4: _[Projeto - Vocabulary Booster](https://github.com/tryber/sd-011-mysql-vocabulary-booster/pull/28)_
+- [ ] 2-1: _Banco de dados SQL_
+- [ ] 2-2: _Encontrando dados em um banco de dados_
+- [ ] 2-3: _Filtrando dados de forma específica_
+- [ ] 2-4: _Manipulando tabelas_
+- [ ] 2-5: _[Projeto - All For One]( )_
 
-##### Bloco 22: Normalização e Modelagem de Banco de Dados.
+### Seção 3: Funções SQL, JOINs e Normalização.
 
-- [x] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [x] 22-2: _Normalização, Formas Normais e Dumps_
-- [x] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [x] 22-3: _[Projeto - One For All](https://github.com/tryber/sd-011-mysql-one-for-all/pull/76)_
+- [ ] 3-1: _Funções mais usadas no SQL_
+- [ ] 3-2: _Descomplicando JOINs_
+- [ ] 3-3: _Transformando ideias em um modelo de banco de dados_
+- [ ] 3-4: _[Projeto - One For All]( )_
 
-##### Bloco 23: Introdução ao MongoDB.
+### Seção 4: Introdução ao desenvolvimento Web com Node.js.
 
-- [x] 23-1: _MongoDB - Introdução_
-- [x] 23-2: _Filter Operators_
-- [x] 23-3: _[Projeto - Data Flights](https://github.com/tryber/sd-011-mongodb-dataflights/pull/18)_
+- [ ] 4-1: _Node.js: Runtime Assíncrono_
+- [ ] 4-2: _Node.js: API REST com Express_
+- [ ] 4-3: _Node.js: Testes de Integração_
+- [ ] 4-4: _Node.js: Express e Middlewares_
+- [ ] 4-5: _Node.js: Express e MySQL_
+- [ ] 4-6: _[Projeto - Talker Manager]( )_
 
-##### Bloco 24: MongoDB: Updates Simples e Complexos.
+### Seção 5: Arquitetura de Software: Model, Service e Controller.
 
-- [x] 24-1: _Updates Simples_
-- [x] 24-2: _Updates Complexos - Arrays - Parte 1_
-- [x] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [x] 24-4: _[Projeto - Commerce](https://github.com/tryber/sd-011-mongodb-commerce/pull/5)_
+- [ ] 5-1: _Arquitetura de Software: Camada Model_
+- [ ] 5-2: _Arquiretura de Software: Refatorando a Camada Model_
+- [ ] 5-3: _Arquitetura de Software: Camada Service_
+- [ ] 5-4: _Arquitetura de Software: Refatorando a Camada Service_
+- [ ] 5-5: _Arquitetura de Software: Refatorando a Camada Controller_
+- [ ] 5-6: _[Projeto - Store Manager]()_
 
-##### Bloco 25: MongoDB: Aggregation Framework.
+### Seção 6: Node.js: ORM e Autenticação.
 
-- [x] 25-1: _Aggregation Framework - Part 1_
-- [x] 25-2: _Aggregation Framework - Part 2_
-- [x] 25-3: _[Projeto - Aggregations](https://github.com/tryber/sd-011-mongodb-aggregations/pull/31)_
+- [ ] 6-1: _ORM - Interface da aplicação com o banco de dados_
+- [ ] 6-1: _ORM - Associations 1:1 e 1:N_
+- [ ] 6-1: _ORM - Associations N:N e Transactions_
+- [ ] 6-1: _JWT - JSON Web Token_
+- [ ] 6-1: _[Projeto - API de Blogs]()_
 
-##### Bloco 26: Introdução ao desenvolvimento Web com NodeJS
+### Seção 7: Masterclass: Implantação de Aplicações na Numvem.
 
-- [x] 26-1: _NodeJS - Introdução_
-- [x] 26-2: _NodeJS - Fluxo Assíncrono_
-- [x] 26-3: _Testes com NodeJS_
-- [x] 26-4: _Expess: HTTP com Node.js_
-- [x] 26-5: _Praticando Express_
-- [x] 26-6: _[Projeto - Talker Manager](https://github.com/tryber/sd-011-project-talker-manager/pull/23)_
+- [ ] 7-1: _Infraestrutura: Deploy com Railway_
 
-##### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful.
+### Seção 8: Introdução a TypeScript.
 
-- [x] 27-1: _Arquitetura de Software - Camada de Model_
-- [x] 27-2: _Arquitetura de Software - Camada de Controller e Service_
-- [x] 27-3: _Arquitetura Web - Rest e Restful_
-- [x] 27-4: _Arquitetura de Software - Testando as Camadas_
-- [x] 27-5: _[Projeto - Store Manager](https://github.com/tryber/sd-011-store-manager/pull/72)_
+- [ ] 8-1: _Aprendendo TypeScript_
+- [ ] 8-2: _Introdução a Generics_
+- [ ] 8-3: _API REST com Express, JWT, Sequelize e TypeScript_
+- [ ] 8-4: _Testando aplicações com TypeScript_
+- [ ] 8-5: _[Projeto - Trybesmith]( )_
 
-##### Bloco 28: Autenticação e Upload de Arquivos.
+### Seção 9: Programação Orientada a Objetos (POO) e SOLID.
 
-- [x] 28-1: _NodeJS - JWT - (JSON Web Token)_
-- [x] 28-2: _NodeJS - Upload de arquivos com multer_
-- [x] 28-3: _NodeJS - Testando APIs com Testes de Integração_
-- [x] 28-4: _[Projeto - Cookmaster](https://github.com/tryber/sd-011-cookmaster/pull/94)_
+- [ ] 9-1: _Introdução à Orientação a Objetos_
+- [ ] 9-2: _Herança e Composição_
+- [ ] 9-3: _Polimorfismo_
+- [ ] 9-4: _SOLID - Introdução e Princípios S, O e D_
+- [ ] 9-4: _SOLID - Princípios L e I_
+- [ ] 9-4: _[Projeto - Trybers and Dragons]( )_
 
-##### Bloco 29: Deployment
+### Seção 10: Projeto - TFC - Trybe Futebol Clube.
 
-- [x] 29-1: _Infraestrutura - Deploy com Heroku_
-- [x] 29-2: _Deploy - Gerenciadores de Processos_
-- [x] 29-3: _[Projeto - Stranger Things Frontend](https://github.com/tryber/sd-011-stranger-things-frontend/pull/25)_
-- [x] 29-3: _[Projeto - Stranger Things Backend](https://github.com/tryber/sd-011-stranger-things-backend/pull/51)_
-
-##### Bloco 30: Arquitetura: SOLID e ORM.
-
-- [x] 30-1: _Arquitetura - Princípios SOLID_
-- [x] 30-2: _ORM - Interface da aplicação com o banco de dados_
-- [x] 30-2: _ORM - Associations_
-- [x] 30-3: _[Projeto - API de Blogs](https://github.com/tryber/sd-011-project-blogs-api/pull/57)_
-
-##### Bloco 31: Sockets.
-
-- [x] 31-1: _Arquitetura de Sotware - Camada de View_
-- [x] 31-2: _Sockets - TCP/UDP & NET_
-- [x] 31-3: _Sockets - Socket.io_
-- [x] 31-4: _Sockets - Praticando Socket.io_
-- [x] 31-3: _[Projeto - Webchat](https://github.com/tryber/sd-011-project-webchat/pull/65)_
-
-##### Bloco 32: Projeto Trybeer.
-
-- [x] 32-1: _[Projeto - Delivery App](https://github.com/tryber/sd-011-project-delivery-app/pull/46)_
+- [ ] 10-1: _Express com Classes_
+- [ ] 10-2: _[Projeto - TFC - Trybe Futebol Clube]( )_
 
 ## Ciência da Computação :white_check_mark:
 
