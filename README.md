@@ -223,12 +223,12 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 3-2: _Arrays_
 - [ ] 3-3: _Nó e Listas Encadeadas_
 - [ ] 3-4: _Pilhas e Filas_
-- [ ] 3-5: _Projeto TING - Trybe Is Not Google_
+- [ ] 3-5: _[Projeto TING - Trybe Is Not Google]( )_
 
 ### Seção 4: Estrutura de Dados II: Hashmaps e Sets.
 
 - [ ] 4-1: _Hashmap e Dict_
 - [ ] 4-2: _Set_
-- [ ] 4-3: _Projeto Restaurant Orders_
+- [ ] 4-3: _[Projeto Restaurant Orders]( )_
 
 # [...]
