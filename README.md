@@ -203,29 +203,21 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] 10-1: _Express com Classes_
 - [ ] 10-2: _[Projeto - TFC - Trybe Futebol Clube]( )_
 
-## Ciência da Computação :white_check_mark:
+## Módulo de Ciência da Computação :white_check_mark:
 
-##### Bloco 33: Introdução à Python.
+### Seção 1: Introdução à Python.
 
-- [x] 33-1: _Introdução - Ciência da Computação_
-- [x] 33-1: _Aprendendo Python_
-- [x] 33-2: _Entrada e Saída de Dados_
-- [x] 33-3: _Testes_
-- [x] 33-4: _[Projeto - Job Insights](https://github.com/tryber/sd-011-project-job-insights/pull/103)_
+- [ ] 1-1: _Aprendendo Python_
+- [ ] 1-2: _Entrada e Saída de Dados com Testes_
 
-##### Bloco 34: Programação Orientada a Objetos e Padrões de Projeto.
+### Seção 2: Algoritmos.
 
-- [x] 34-1: _Introdução a Programação Orientada a Objetos_
-- [x] 34-2: _Herança, Composição e Interfaces_
-- [x] 34-3: _Padrões de projeto_
-- [x] 34-4: _[Projeto - Relatórios de Estoque](https://github.com/tryber/sd-011-inventory-report/pull/164)_
+- [ ] 2-1: _Complexidade de Algoritmos_
+- [ ] 2-2: _Recursividade e Estratégias para solução de problemas_
+- [ ] 2-3: _Algoritmos de ordenação e busca_
+- [ ] 2-4: _[Projeto - Algoritmos]( )_
 
-##### Bloco 35: Raspagem de Dados.
-
-- [x] 35-1: _Arquitetura de redes_
-- [x] 35-2: _Redes de computadores, ferramentas e segurança_
-- [x] 35-3: _Raspagem de Dados_
-- [x] 35-4: _[Projeto - Tech news](https://github.com/tryber/sd-011-tech-news/pull/5)_
+### Seção 3: Estrutura de Dados I: Listas Lineares.
 
 ##### Bloco 36: Algoritmos.
 
