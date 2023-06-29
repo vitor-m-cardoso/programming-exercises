@@ -219,27 +219,16 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ### Seção 3: Estrutura de Dados I: Listas Lineares.
 
-##### Bloco 36: Algoritmos.
+- [ ] 3-1: _P.O.O em Python_
+- [ ] 3-2: _Arrays_
+- [ ] 3-3: _Nó e Listas Encadeadas_
+- [ ] 3-4: _Pilhas e Filas_
+- [ ] 3-5: _Projeto TING - Trybe Is Not Google_
 
-- [x] 36-1: _Complexidade de Algoritmos_
-- [x] 36-2: _Recursividade e Estratégias para solução de problemas_
-- [x] 36-3: _Algoritmos de ordenação e busca_
-- [x] 36-4: _[Projeto - Algoritmos](https://github.com/tryber/sd-011-project-algorithms/pull/31)_
+### Seção 4: Estrutura de Dados II: Hashmaps e Sets.
 
-##### Bloco 37: Estrutura de Dados I: Arrays, Hashmaps e Sets.
-
-- [x] 37-1: _Arquitetura de Computadores_
-- [x] 37.2: _Arrays_
-- [x] 37-3: _Hashmap e Dict_
-- [x] 37-4: _Set_
-- [x] 37-5: _[Projeto - Restaurant Orders](https://github.com/tryber/sd-011-restaurant-orders/pull/9)_
-
-##### Bloco 38: Estrutura de Dados II: Listas , Filas e Pilhas.
-
-- [x] 38-1: _Nó e Listas Encadeadas_
-- [x] 38-2: _Deque_
-- [x] 38-3: _Pilhas e Filas_
-- [x] 38-4: _[Projeto - TING - Trybe Is Not Google](https://github.com/tryber/sd-011-project-ting/pull/80)_
-
+- [ ] 4-1: _Hashmap e Dict_
+- [ ] 4-2: _Set_
+- [ ] 4-3: _Projeto Restaurant Orders_
 
 # [...]
