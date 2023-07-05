@@ -1,5 +1,0 @@
-Ola
-mundo
-belo
-do
-python
