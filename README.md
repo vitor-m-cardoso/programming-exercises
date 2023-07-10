@@ -11,7 +11,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ### Seção 2: Introdução à HTML & CSS.
 
-- [x] 2-1: _HTML & CSS - Estruturas de página_
+- [x] 2-1: _[HTML & CSS - Estruturas de página](https://github.com/vitor-m-cardoso/trybe-exercises/blob/main/fundamentos/secao-2/01-html-css-estruturas-de-pagina/index.html)_
 - [x] 2-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 2-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 2-4: _HTML Semântico_
