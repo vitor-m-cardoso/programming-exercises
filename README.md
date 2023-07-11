@@ -11,53 +11,53 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ### Seção 2: Introdução à HTML & CSS.
 
-- [x] 2-1: _[HTML & CSS - Estruturas de página](https://github.com/vitor-m-cardoso/trybe-exercises/blob/main/fundamentos/secao-2/01-html-css-estruturas-de-pagina/index.html)_
-- [x] 2-2: _HTML & CSS - Primeiros passos em CSS_
-- [x] 2-3: _HTML & CSS - Seletores e posicionamento_
-- [x] 2-4: _HTML Semântico_
+- [x] 2-1: _[HTML & CSS - Estruturas de página](https://github.com/vitor-m-cardoso/trybe-exercises/blob/main/fundamentos/secao-2/01-html-css-estruturas-de-pagina)_
+- [x] 2-2: _[HTML & CSS - Primeiros passos em CSS](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-2/02-html-css-primeiros-passos-css)_
+- [x] 2-3: _[HTML & CSS - Seletores e posicionamento](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-2/03-html-css-seletores-e-posicionamento)_
+- [x] 2-4: _[HTML Semântico](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-2/04-html-semantico)_
 - [ ] 2-5: _[Projeto - Lessons Learned (HTML e CSS)]()_
 
 ### Seção 3: Introdução à JavaScript.
 
-- [x] 3-1: _Primeiros passos no JavaScript_
-- [x] 3-2: _Array e estrutura de repetição_
-- [x] 3-3: _Funções_
-- [x] 3-4: _Objetos_
-- [x] 3-5: _JSON e dia de prática_
+- [ ] 3-1: _Primeiros passos no JavaScript_
+- [ ] 3-2: _Array e estrutura de repetição_
+- [ ] 3-3: _Funções_
+- [ ] 3-4: _Objetos_
+- [ ] 3-5: _JSON e dia de prática_
 - [ ] 3-6: _[Projeto - Supermercado Pirilampo (JavaScript)]()_
 
 ### Seção 4: JavaScript: DOM, Eventos e Web Storage.
 
-- [x] 4-1: _JavaScript - DOM e seletores_
-- [x] 4-2: _JavaScript - Trabalhando com elementos_
-- [x] 4-3: _JavaScript - Eventos_
-- [x] 4-4: _JavaScript - Web Storage_
+- [ ] 4-1: _JavaScript - DOM e seletores_
+- [ ] 4-2: _JavaScript - Trabalhando com elementos_
+- [ ] 4-3: _JavaScript - Eventos_
+- [ ] 4-4: _JavaScript - Web Storage_
 - [ ] 4-5: _[Projeto - PixelArt]()_
 - [ ] 4-6: _[Projetos bônus]()_
 
 ### Seção 5: HTML e CSS: Forms, Felxbox e Responsivo.
 
-- [x] 5-1: _HTML & CSS - Forms_
-- [x] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [x] 5-3: _CSS Flexbox - Part 1_
-- [x] 5-4: _CSS Flexbox - Part 2_
-- [x] 5-5: _Responsividade_
+- [ ] 5-1: _HTML & CSS - Forms_
+- [ ] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [ ] 5-3: _CSS Flexbox - Part 1_
+- [ ] 5-4: _CSS Flexbox - Part 2_
+- [ ] 5-5: _Responsividade_
 - [ ] 5-6: _[Projeto - Trybewarts]()_
 
 ### Seção 6: JavaScript ES6 & Testes Unitários.
 
-- [x] 6-1: _Fluxo de exceções_
-- [x] 6-2: _Primeiros passos em Jest_
-- [x] 6-3: _Matchers e cobertura de código_
+- [ ] 6-1: _Fluxo de exceções_
+- [ ] 6-2: _Primeiros passos em Jest_
+- [ ] 6-3: _Matchers e cobertura de código_
 - [ ] 6-4: _[Projeto - JavaScript Testes Unitários]()_
 
 ### Seção 7: Higher Order Functions do JavaScript ES6.
 
-- [x] 7-1: _Introdução a Higher Order Functions_
-- [x] 7-2: _Higher Order Functions - sort, map_
-- [x] 7-3: _Higher Order Functions - filter e reduce_
-- [x] 7-4: _JavaScript ES6 - spread operator, rest parameters e objet destructuring_
-- [x] 7-5: _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
+- [ ] 7-1: _Introdução a Higher Order Functions_
+- [ ] 7-2: _Higher Order Functions - sort, map_
+- [ ] 7-3: _Higher Order Functions - filter e reduce_
+- [ ] 7-4: _JavaScript ES6 - spread operator, rest parameters e objet destructuring_
+- [ ] 7-5: _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
 - [ ] 7-6: _[Projeto - Zoo functions]()_
 
 ## Módulo de Desenvolvimento Front-end :white_check_mark:
