@@ -1,0 +1,8 @@
+body {
+  background-image: linear-gradient(to right, rgb(17, 24, 39), rgb(75, 85, 99));
+  color: rgb(240, 240, 255);
+}
+
+#my-image {
+  width: 150px;
+}
