@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: conic-gradient(at right top, rgb(199, 210, 254), rgb(71, 85, 105), rgb(199, 210, 254));
+}
+
+body header nav {
+  display: inline-block;
+  
+}
+
+#title {
+  display: inline-block;
+  margin: 10px 10px 25px;
+}
+
+.stomatopoda-image {
+  width: 250px;
+}
