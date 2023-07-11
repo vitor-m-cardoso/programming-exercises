@@ -1,0 +1,15 @@
+body {
+  background-image: linear-gradient(to right, rgb(17, 24, 39), rgb(75, 85, 99));
+  color: rgb(240, 240, 255);
+}
+
+nav a {
+  margin-left: 20px;
+}
+
+#my-image {
+  width: 150px;
+  padding: 50px;
+  background-color: rgb(75, 85, 99);
+  border-radius: 10px;
+}
