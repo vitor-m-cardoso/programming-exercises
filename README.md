@@ -1,6 +1,7 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Vitor Mauricio Cardoso](https://www.linkedin.com/in/vitormcardoso/)_
+Este repositório contém todos os exercícios e projetos realizados ao longo do curso de desenvolvimento web full stack. Os exercícios e projetos comprovam o aprendizado, boas práticas no desenvolvimento, a capacidade de desenvolver códigos e capacidade de solucionar problemas com as ferramentas utilizadas. - contato: _[Vitor Mauricio Cardoso](https://www.linkedin.com/in/vitormcardoso/)_
+
 ## Módulo de Fundamentos do Desenvolvimento Web :white_check_mark:
 
 ### Seção 1: Unix, Shell e Git.
@@ -15,7 +16,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 2-2: _[HTML & CSS - Primeiros passos em CSS](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-2/02-html-css-primeiros-passos-css)_
 - [x] 2-3: _[HTML & CSS - Seletores e posicionamento](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-2/03-html-css-seletores-e-posicionamento)_
 - [x] 2-4: _[HTML Semântico](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-2/04-html-semantico)_
-- [ ] 2-5: _[Projeto - Lessons Learned (HTML e CSS)]()_
+- [x] 2-5: _[Projeto - Lessons Learned (HTML e CSS)](https://github.com/vitor-m-cardoso/html-css-landing-page)_
 
 ### Seção 3: Introdução à JavaScript.
 
