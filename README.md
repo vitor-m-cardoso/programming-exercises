@@ -25,7 +25,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 3-3: _[Funções](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-3/03-funcoes)_
 - [x] 3-4: _[Objetos](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-3/04-objetos)_
 - [x] 3-5: _[JSON e dia de prática](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-3/05-json-e-dia-de-pratica)_
-- [ ] 3-6: _[Projeto - Supermercado Pirilampo (JavaScript)]()_
+- [x] 3-6: _[Projeto - Supermercado Pirilampo (JavaScript)](https://github.com/vitor-m-cardoso/javascript-supermarket-stock)_
 
 ### Seção 4: JavaScript: DOM, Eventos e Web Storage.
 
