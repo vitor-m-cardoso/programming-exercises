@@ -1,4 +1,4 @@
-# Trybe
+# Boas-vindas ao repositório de exercícios e projetos da _Trybe_
 
 Este repositório contém todos os exercícios e projetos realizados ao longo do curso de desenvolvimento web full stack. Os exercícios e projetos comprovam o aprendizado, boas práticas no desenvolvimento, a capacidade de desenvolver códigos e capacidade de solucionar problemas com as ferramentas utilizadas.
 - desenvolvido por: _[Vitor Mauricio Cardoso](https://www.linkedin.com/in/vitormcardoso/)_
