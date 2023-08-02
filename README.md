@@ -20,11 +20,11 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 ### Seção 3: Introdução à JavaScript.
 
-- [ ] 3-1: _Primeiros passos no JavaScript_
-- [ ] 3-2: _Array e estrutura de repetição_
-- [ ] 3-3: _Funções_
-- [ ] 3-4: _Objetos_
-- [ ] 3-5: _JSON e dia de prática_
+- [x] 3-1: _[Primeiros passos no JavaScript](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-3/01-primeiros-passos-no-javascript)_
+- [x] 3-2: _[Array e estrutura de repetição](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-3/02-array-e-estrutura-de-repeticao)_
+- [x] 3-3: _[Funções](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-3/03-funcoes)_
+- [x] 3-4: _[Objetos](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-3/04-objetos)_
+- [x] 3-5: _[JSON e dia de prática](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-3/05-json-e-dia-de-pratica)_
 - [ ] 3-6: _[Projeto - Supermercado Pirilampo (JavaScript)]()_
 
 ### Seção 4: JavaScript: DOM, Eventos e Web Storage.
