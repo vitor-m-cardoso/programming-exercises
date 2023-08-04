@@ -35,7 +35,6 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 4-3: _[JavaScript - Eventos](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-4/03-javascript-eventos)_
 - [x] 4-4: _[JavaScript - Web Storage](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-4/04-javascript-web-storage)_
 - [x] 4-5: _[Projeto - PixelArt](https://github.com/vitor-m-cardoso/javascript-dom-manipulation)_
-- [ ] 4-6: _[Projetos bônus]()_
 
 ### Seção 5: HTML e CSS: Forms, Felxbox e Responsivo.
 
