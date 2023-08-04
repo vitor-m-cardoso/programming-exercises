@@ -30,10 +30,10 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 ### Seção 4: JavaScript: DOM, Eventos e Web Storage.
 
-- [ ] 4-1: _JavaScript - DOM e seletores_
-- [ ] 4-2: _JavaScript - Trabalhando com elementos_
-- [ ] 4-3: _JavaScript - Eventos_
-- [ ] 4-4: _JavaScript - Web Storage_
+- [x] 4-1: _[JavaScript - DOM e seletores](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-4/01-javascript-dom-e-seletores)_
+- [x] 4-2: _[JavaScript - Trabalhando com elementos](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-4/02-javascript-trabalhando-com-elementos)_
+- [x] 4-3: _[JavaScript - Eventos](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-4/03-javascript-eventos)_
+- [x] 4-4: _[JavaScript - Web Storage](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-4/04-javascript-web-storage)_
 - [ ] 4-5: _[Projeto - PixelArt]()_
 - [ ] 4-6: _[Projetos bônus]()_
 
