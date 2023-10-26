@@ -132,8 +132,8 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 ### Seção 1: Docker: Utilizando Containers.
 
-- [ ] 1-1: _Utilizando Containers - Docker_
-- [ ] 1-2: _Manipulando Imagens no Docker_
+- [x] 1-1: _[Utilizando Containers - Docker]()_
+- [x] 1-2: _[Manipulando Imagens no Docker](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/back-end/secao-1/dia-2)_
 - [ ] 1-3: _Orquestrando Containers com Docker Compose_
 - [ ] 1-4: _[Projeto - Docker Todo-List]( )_
 
