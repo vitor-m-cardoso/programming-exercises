@@ -36,6 +36,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 4-4: _[JavaScript - Web Storage](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/fundamentos/secao-4/04-javascript-web-storage)_
 - [x] 4-5: _[Projeto - PixelArt](https://github.com/vitor-m-cardoso/javascript-dom-manipulation)_
 - [x] 4-6: _[Projeto - TodoList](https://github.com/vitor-m-cardoso/javascript-dom-todo-list)_
+- [x] 4-7: _[Projeto - Meme Generator](https://github.com/vitor-m-cardoso/javascript-dom-meme-generator)_
 
 ### Seção 5: HTML e CSS: Forms, Felxbox e Responsivo.
 
