@@ -1,6 +1,6 @@
 # Boas-vindas ao meu repositório de exercícios e projetos de programação
 
-Este repositório contém todos os exercícios e projetos realizados ao longo do dos meus estudos. Os exercícios e projetos comprovam o aprendizado, boas práticas no desenvolvimento, a capacidade de desenvolver códigos e capacidade de solucionar problemas com as ferramentas utilizadas.
+Este repositório contém todos os exercícios e projetos realizados ao longo dos meus estudos. Os exercícios e projetos comprovam o aprendizado, boas práticas no desenvolvimento, a capacidade de desenvolver códigos e capacidade de solucionar problemas com as ferramentas utilizadas.
 - desenvolvido por: _[Vitor Mauricio Cardoso](https://www.linkedin.com/in/vitormcardoso/)_
 
 ## Fundamentos do Desenvolvimento Web ⏳
