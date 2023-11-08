@@ -1,9 +1,9 @@
-# Boas-vindas ao repositório de exercícios e projetos da _Trybe_
+# Boas-vindas ao meu repositório de exercícios e projetos de programação
 
-Este repositório contém todos os exercícios e projetos realizados ao longo do curso de desenvolvimento web full stack. Os exercícios e projetos comprovam o aprendizado, boas práticas no desenvolvimento, a capacidade de desenvolver códigos e capacidade de solucionar problemas com as ferramentas utilizadas.
+Este repositório contém todos os exercícios e projetos realizados ao longo do dos meus estudos. Os exercícios e projetos comprovam o aprendizado, boas práticas no desenvolvimento, a capacidade de desenvolver códigos e capacidade de solucionar problemas com as ferramentas utilizadas.
 - desenvolvido por: _[Vitor Mauricio Cardoso](https://www.linkedin.com/in/vitormcardoso/)_
 
-## Módulo de Fundamentos do Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web ⏳
 
 ### Seção 1: Unix, Shell e Git.
 
@@ -62,7 +62,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [ ] 7-5: _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
 - [ ] 7-6: _[Projeto - Zoo functions]()_
 
-## Módulo de Desenvolvimento Front-end :white_check_mark:
+## Desenvolvimento Front-end ⏳
 
 ### Seção 1: Introdução ao Frontend e JavaScript Assíncrono.
 
@@ -129,7 +129,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 - [ ] 9-1: _[Projeto - App de Receitas](https://vitor-m-cardoso.github.io/recipes-app/)_
 
-## Módulo de Desenvolvimento Back-end :white_check_mark:
+## Desenvolvimento Back-end ⏳
 
 ### Seção 1: Docker: Utilizando Containers.
 
@@ -205,7 +205,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [ ] 10-1: _Express com Classes_
 - [ ] 10-2: _[Projeto - TFC - Trybe Futebol Clube]( )_
 
-## Módulo de Ciência da Computação :white_check_mark:
+## Ciência da Computação ⏳
 
 ### Seção 1: Introdução à Python.
 
@@ -233,4 +233,14 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [ ] 4-2: _Set_
 - [ ] 4-3: _[Projeto Restaurant Orders]( )_
 
-# [...]
+## Desenvolvimento com Java ⏳
+
+- [...]
+
+## Desenvolvimento com C# ⏳
+
+- [...]
+
+## Desenvolvimento com Python ⏳
+
+- [...]
