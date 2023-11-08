@@ -7,9 +7,9 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 ### Seção 1: Unix, Shell e Git.
 
-- [x] 1-1: _Unix & Shell_
-- [x] 1-2: _Git - O que é e para que serve_
-- [x] 1-3: _Git & GitHub - Entendendo os comandos_
+- [x] 1-1: _[Unix & Shell]( )_
+- [x] 1-2: _[Git - O que é e para que serve]( )_
+- [x] 1-3: _[Git & GitHub - Entendendo os comandos]( )_
 
 ### Seção 2: Introdução à HTML & CSS.
 
