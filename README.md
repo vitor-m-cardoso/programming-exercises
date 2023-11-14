@@ -41,7 +41,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 ### Seção 5: HTML e CSS: Forms, Felxbox e Responsivo.
 
 - [x] 5-1: _[HTML & CSS - Forms](https://github.com/vitor-m-cardoso/html-forms)_
-- [ ] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [x] 5-2: _[Bibliotecas JavaScript e Frameworks CSS](https://github.com/vitor-m-cardoso/html-forms)_
 - [ ] 5-3: _CSS Flexbox - Part 1_
 - [ ] 5-4: _CSS Flexbox - Part 2_
 - [ ] 5-5: _Responsividade_
