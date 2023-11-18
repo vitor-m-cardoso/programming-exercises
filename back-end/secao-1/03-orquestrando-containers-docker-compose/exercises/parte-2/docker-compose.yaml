@@ -1,0 +1,43 @@
+version: '3'
+services:
+  frontend:
+    build: frontend/
+    restart: always
+    ports:
+      - 3000:3000
+    volumes:
+      - ./frontend/src:/frontend/src
+    networks:
+      - rede-virtual-1
+  ghost:
+    image: ghost:1-alpine
+    restart: always
+    ports:
+      - 2368:2368
+    depends_on:
+      - db
+    environment:
+      database__client: mysql
+      database__connection__host: db
+      database__connection__user: root
+      database__connection__password: toor2244
+      database__connection__database: ghost
+    networks:
+      - rede-virtual-1
+      - rede-virtual-2
+  db:
+    platform: linux/x86_64
+    image: mysql:5.7.40
+    environment:
+      MYSQL_ROOT_PASSWORD: toor2244
+    volumes:
+      - database:/var/lib/mysql
+    networks:
+      - rede-virtual-2
+
+volumes:
+  database:
+
+networks:
+  rede-virtual-1:
+  rede-virtual-2:
