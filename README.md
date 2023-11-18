@@ -136,7 +136,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 - [x] 1-1: _[Utilizando Containers - Docker]()_
 - [x] 1-2: _[Manipulando Imagens no Docker](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/back-end/secao-1/dia-2)_
-- [ ] 1-3: _Orquestrando Containers com Docker Compose_
+- [x] 1-3: _[Orquestrando Containers com Docker Compose](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-1/03-orquestrando-containers-docker-compose)_
 - [ ] 1-4: _[Projeto - Docker Todo-List]( )_
 
 ### Seção 2: Introdução à SQL.
