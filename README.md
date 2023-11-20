@@ -137,74 +137,68 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 1-1: _[Utilizando Containers - Docker]()_
 - [x] 1-2: _[Manipulando Imagens no Docker](https://github.com/vitor-m-cardoso/trybe-exercises/tree/main/back-end/secao-1/dia-2)_
 - [x] 1-3: _[Orquestrando Containers com Docker Compose](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-1/03-orquestrando-containers-docker-compose)_
-- [ ] 1-4: _[Projeto - Docker Todo-List]( )_
+- [x] 1-4: _[Projeto - Docker Todo-List](https://github.com/vitor-m-cardoso/docker-todo-list)_
 
 ### Seção 2: Introdução à SQL.
 
-- [ ] 2-1: _Banco de dados SQL_
-- [ ] 2-2: _Encontrando dados em um banco de dados_
-- [ ] 2-3: _Filtrando dados de forma específica_
-- [ ] 2-4: _Manipulando tabelas_
-- [ ] 2-5: _[Projeto - All For One]( )_
+- [ ] 2-1: _Introdução a Banco de Dados_
+- [ ] 2-2: _Como atualizar e remover dados de um banco_
+- [ ] 2-3: _Relacionamentos - Parte 1_
+- [ ] 2-4: _Relacionamentos - Parte 2_
+- [ ] 2-5: _Relacionamentos - Parte 3 e Relatórios Avançados_
+- [ ] 2-6: _[Projeto - Trybefy]( )_
 
-### Seção 3: Funções SQL, JOINs e Normalização.
+### Seção 3: Introdução ao desenvolvimento Web com Node.js.
 
-- [ ] 3-1: _Funções mais usadas no SQL_
-- [ ] 3-2: _Descomplicando JOINs_
-- [ ] 3-3: _Transformando ideias em um modelo de banco de dados_
-- [ ] 3-4: _[Projeto - One For All]( )_
+- [ ] 3-1: _Node.js: Runtime Assíncrono_
+- [ ] 3-2: _Node.js: API REST com Express_
+- [ ] 3-3: _Node.js: Testes de Integração_
+- [ ] 3-4: _Node.js: Express e Middlewares_
+- [ ] 3-5: _Node.js: Express e MySQL_
+- [ ] 3-6: _[Projeto - Talker Manager]( )_
 
-### Seção 4: Introdução ao desenvolvimento Web com Node.js.
+### Seção 4: Arquitetura de Software: Model, Service e Controller.
 
-- [ ] 4-1: _Node.js: Runtime Assíncrono_
-- [ ] 4-2: _Node.js: API REST com Express_
-- [ ] 4-3: _Node.js: Testes de Integração_
-- [ ] 4-4: _Node.js: Express e Middlewares_
-- [ ] 4-5: _Node.js: Express e MySQL_
-- [ ] 4-6: _[Projeto - Talker Manager]( )_
+- [ ] 4-1: _Arquitetura de Software: Camada Model_
+- [ ] 4-2: _Arquiretura de Software: Refatorando a Camada Model_
+- [ ] 4-3: _Arquitetura de Software: Camada Service_
+- [ ] 4-4: _Arquitetura de Software: Refatorando a Camada Service_
+- [ ] 4-5: _Arquitetura de Software: Refatorando a Camada Controller_
+- [ ] 4-6: _[Projeto - Store Manager]()_
 
-### Seção 5: Arquitetura de Software: Model, Service e Controller.
+### Seção 5: Node.js: ORM e Autenticação.
 
-- [ ] 5-1: _Arquitetura de Software: Camada Model_
-- [ ] 5-2: _Arquiretura de Software: Refatorando a Camada Model_
-- [ ] 5-3: _Arquitetura de Software: Camada Service_
-- [ ] 5-4: _Arquitetura de Software: Refatorando a Camada Service_
-- [ ] 5-5: _Arquitetura de Software: Refatorando a Camada Controller_
-- [ ] 5-6: _[Projeto - Store Manager]()_
+- [ ] 5-1: _ORM - Interface da aplicação com o banco de dados_
+- [ ] 5-1: _ORM - Associations 1:1 e 1:N_
+- [ ] 5-1: _ORM - Associations N:N e Transactions_
+- [ ] 5-1: _JWT - JSON Web Token_
+- [ ] 5-1: _[Projeto - API de Blogs]()_
 
-### Seção 6: Node.js: ORM e Autenticação.
+### Seção 6: Masterclass: Implantação de Aplicações na Numvem.
 
-- [ ] 6-1: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 6-1: _ORM - Associations 1:1 e 1:N_
-- [ ] 6-1: _ORM - Associations N:N e Transactions_
-- [ ] 6-1: _JWT - JSON Web Token_
-- [ ] 6-1: _[Projeto - API de Blogs]()_
+- [ ] 6-1: _Infraestrutura: Deploy com Railway_
 
-### Seção 7: Masterclass: Implantação de Aplicações na Numvem.
+### Seção 7: Introdução a TypeScript.
 
-- [ ] 7-1: _Infraestrutura: Deploy com Railway_
+- [ ] 7-1: _Aprendendo TypeScript_
+- [ ] 7-2: _Introdução a Generics_
+- [ ] 7-3: _API REST com Express, JWT, Sequelize e TypeScript_
+- [ ] 7-4: _Testando aplicações com TypeScript_
+- [ ] 7-5: _[Projeto - Trybesmith]( )_
 
-### Seção 8: Introdução a TypeScript.
+### Seção 8: Programação Orientada a Objetos (POO) e SOLID.
 
-- [ ] 8-1: _Aprendendo TypeScript_
-- [ ] 8-2: _Introdução a Generics_
-- [ ] 8-3: _API REST com Express, JWT, Sequelize e TypeScript_
-- [ ] 8-4: _Testando aplicações com TypeScript_
-- [ ] 8-5: _[Projeto - Trybesmith]( )_
+- [ ] 8-1: _Introdução à Orientação a Objetos_
+- [ ] 8-2: _Herança e Composição_
+- [ ] 8-3: _Polimorfismo_
+- [ ] 8-4: _SOLID - Introdução e Princípios S, O e D_
+- [ ] 8-5: _SOLID - Princípios L e I_
+- [ ] 8-6: _[Projeto - Trybers and Dragons]( )_
 
-### Seção 9: Programação Orientada a Objetos (POO) e SOLID.
+### Seção 9: Projeto - TFC - Trybe Futebol Clube.
 
-- [ ] 9-1: _Introdução à Orientação a Objetos_
-- [ ] 9-2: _Herança e Composição_
-- [ ] 9-3: _Polimorfismo_
-- [ ] 9-4: _SOLID - Introdução e Princípios S, O e D_
-- [ ] 9-4: _SOLID - Princípios L e I_
-- [ ] 9-4: _[Projeto - Trybers and Dragons]( )_
-
-### Seção 10: Projeto - TFC - Trybe Futebol Clube.
-
-- [ ] 10-1: _Express com Classes_
-- [ ] 10-2: _[Projeto - TFC - Trybe Futebol Clube]( )_
+- [ ] 9-1: _Express com Classes_
+- [ ] 9-2: _[Projeto - TFC - Trybe Futebol Clube]( )_
 
 ## Ciência da Computação ⏳
 
