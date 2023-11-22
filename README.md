@@ -42,10 +42,10 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 - [x] 5-1: _[HTML & CSS - Forms](https://github.com/vitor-m-cardoso/html-forms)_
 - [x] 5-2: _[Bibliotecas JavaScript e Frameworks CSS](https://github.com/vitor-m-cardoso/html-forms)_
-- [ ] 5-3: _CSS Flexbox - Part 1_
-- [ ] 5-4: _CSS Flexbox - Part 2_
-- [ ] 5-5: _Responsividade_
-- [ ] 5-6: _[Projeto - Trybewarts]()_
+- [x] 5-3: _[CSS Flexbox - Part 1]()_
+- [x] 5-4: _[CSS Flexbox - Part 2]()_
+- [x] 5-5: _[Responsividade]()_
+- [x] 5-6: _[Projeto - Trybewarts](https://github.com/vitor-m-cardoso/html-css-responsive-forms)_
 
 ### Seção 6: JavaScript ES6 & Testes Unitários.
 
