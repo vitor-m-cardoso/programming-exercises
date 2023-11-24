@@ -142,7 +142,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 ### Seção 2: Introdução à SQL.
 
 - [x] 2-1: _[Introdução a Banco de Dados](https://github.com/vitor-m-cardoso/sql-docker-hotel-database)_
-- [ ] 2-2: _[Como atualizar e remover dados de um banco]()_
+- [x] 2-2: _[Como atualizar e remover dados de um banco](https://github.com/vitor-m-cardoso/sql-docker-hotel-database-2)_
 - [ ] 2-3: _[Relacionamentos - Parte 1]()_
 - [ ] 2-4: _[Relacionamentos - Parte 2]()_
 - [ ] 2-5: _[Relacionamentos - Parte 3 e Relatórios Avançados]()_
