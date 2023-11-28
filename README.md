@@ -146,7 +146,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [ ] 2-3: _[Relacionamentos - Parte 1]()_
 - [ ] 2-4: _[Relacionamentos - Parte 2]()_
 - [ ] 2-5: _[Relacionamentos - Parte 3 e Relatórios Avançados]()_
-- [ ] 2-6: _[Projeto - Trybefy]( )_
+- [x] 2-6: _[Projeto - Trybefy](https://github.com/vitor-m-cardoso/docker-sql-streaming-database)_
 
 ### Seção 3: Introdução ao desenvolvimento Web com Node.js.
 
