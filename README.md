@@ -143,7 +143,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 - [x] 2-1: _[Introdução a Banco de Dados](https://github.com/vitor-m-cardoso/sql-docker-hotel-database)_
 - [x] 2-2: _[Como atualizar e remover dados de um banco](https://github.com/vitor-m-cardoso/sql-docker-hotel-database-2)_
-- [ ] 2-3: _[Relacionamentos - Parte 1]()_
+- [x] 2-3: _[Relacionamentos - Parte 1](https://github.com/vitor-m-cardoso/sql-docker-hotel-database-3)_
 - [ ] 2-4: _[Relacionamentos - Parte 2]()_
 - [ ] 2-5: _[Relacionamentos - Parte 3 e Relatórios Avançados]()_
 - [x] 2-6: _[Projeto - Trybefy](https://github.com/vitor-m-cardoso/docker-sql-streaming-database)_
