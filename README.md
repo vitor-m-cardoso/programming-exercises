@@ -150,11 +150,11 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 ### Seção 3: Introdução ao desenvolvimento Web com Node.js.
 
-- [ ] 3-1: _Node.js: Runtime Assíncrono_
-- [ ] 3-2: _Node.js: API REST com Express_
-- [ ] 3-3: _Node.js: Testes de Integração_
-- [ ] 3-4: _Node.js: Express e Middlewares_
-- [ ] 3-5: _Node.js: Express e MySQL_
+- [x] 3-1: _[Node.js: Runtime Assíncrono](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-3/01-nodejs-runtime-assincrono)_
+- [ ] 3-2: _[Node.js: API REST com Express]()_
+- [ ] 3-3: _[Node.js: Testes de Integração]()_
+- [ ] 3-4: _[Node.js: Express e Middlewares]()_
+- [ ] 3-5: _[Node.js: Express e MySQL]()_
 - [ ] 3-6: _[Projeto - Talker Manager]( )_
 
 ### Seção 4: Arquitetura de Software: Model, Service e Controller.
