@@ -155,7 +155,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 3-3: _[Node.js: Testes de Integração](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-3/03-nodejs-testes-integracao/cacau-wow)_
 - [ ] 3-4: _[Node.js: Express e Middlewares]()_
 - [ ] 3-5: _[Node.js: Express e MySQL]()_
-- [ ] 3-6: _[Projeto - Talker Manager]( )_
+- [ ] 3-6: _[Projeto - Talker Manager]()_
 
 ### Seção 4: Arquitetura de Software: Model, Service e Controller.
 
