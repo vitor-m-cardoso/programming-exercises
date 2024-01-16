@@ -1,0 +1,57 @@
+version: '3'
+services:
+  node:
+    # faz o docker construir à partir de uma imagem personalizada
+    # baseada no arquivo Dockerfile
+    build:
+      dockerfile: ./Dockerfile
+      context: .
+    # Nome do container para facilitar a execução
+    container_name: cash_api
+    restart: always
+    # Diretório padrão de execução
+    working_dir: /app
+    # Lista de volumes (diretórios) mapeados de fora para dentro do conteiner
+    volumes:
+      # Monta o diretório atual, com todos os dados da aplicação, dentro do diretório app
+      - ./:/app
+    ports:
+      # porta_de_fora:porta_de_dentro
+      - 3001:3001
+    environment:
+      # Aqui declaramos nossas variáveis de ambiente
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+      MYSQL_HOST: database
+      # A porta aqui é 3306 e não 33060 pois nesse caso estamos informando
+      # o valor de um container (node) para outro (database)
+      MYSQL_PORT: 3306
+    env_file:
+      - .env
+    depends_on:
+      database:
+        condition: service_healthy
+    networks:
+      - rede-virtual-1
+  database:
+    image: mysql:8.0.29
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DB_NAME}
+    healthcheck:
+      # Deve aguardar o banco ficar operacional
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      timeout: 10s
+      retries: 5
+    ports:
+      - ${MYSQL_PORT}:3306
+    env_file:
+      - .env
+    volumes:
+      - ./cashscript.sql:/docker-entrypoint-initdb.d/cashscript.sql
+    networks:
+      - rede-virtual-1
+
+networks:
+  rede-virtual-1:
