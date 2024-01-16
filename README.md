@@ -154,7 +154,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 3-2: _[Node.js: API REST com Express](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-3/02-nodejs-api-rest-express)_
 - [x] 3-3: _[Node.js: Testes de Integração](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-3/03-nodejs-testes-integracao/cacau-wow)_
 - [x] 3-4: _[Node.js: Express e Middlewares](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-3/04-nodejs-express-middlewares)_
-- [ ] 3-5: _[Node.js: Express e MySQL]()_
+- [x] 3-5: _[Node.js: Express e MySQL](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-3/05-nodejs-express-mysql/cash-api)_
 - [ ] 3-6: _[Projeto - Talker Manager]()_
 
 ### Seção 4: Arquitetura de Software: Model, Service e Controller.
