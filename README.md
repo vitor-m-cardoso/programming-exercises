@@ -160,7 +160,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 ### Seção 4: Arquitetura de Software: Model, Service e Controller.
 
 - [x] 4-1: _[Arquitetura de Software: Camada Model](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-4/01-arquitetura-de-software-camada-model/trybecar/src)_
-- [ ] 4-2: _[Arquiretura de Software: Refatorando a Camada Model]()_
+- [x] 4-2: _[Arquiretura de Software: Refatorando a Camada Model](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-4/02-arquitetura-de-software-refatorando-model/trybecar)_
 - [ ] 4-3: _[Arquitetura de Software: Camada Service]()_
 - [ ] 4-4: _[Arquitetura de Software: Refatorando a Camada Service]()_
 - [ ] 4-5: _[Arquitetura de Software: Refatorando a Camada Controller]()_
