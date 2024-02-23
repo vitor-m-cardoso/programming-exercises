@@ -162,7 +162,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 4-1: _[Arquitetura de Software: Camada Model](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-4/01-arquitetura-de-software-camada-model/trybecar/src)_
 - [x] 4-2: _[Arquiretura de Software: Refatorando a Camada Model](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-4/02-arquitetura-de-software-refatorando-model/trybecar)_
 - [x] 4-3: _[Arquitetura de Software: Camada Service](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-4/03-arquitetura-de-software-camada-service/trybecar)_
-- [ ] 4-4: _[Arquitetura de Software: Refatorando a Camada Service]()_
+- [x] 4-4: _[Arquitetura de Software: Refatorando a Camada Service](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-4/04-arquitetura-de-software-refatorando-service/trybecar)_
 - [ ] 4-5: _[Arquitetura de Software: Refatorando a Camada Controller]()_
 - [ ] 4-6: _[Projeto - Store Manager]()_
 
