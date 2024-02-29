@@ -164,7 +164,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 4-3: _[Arquitetura de Software: Camada Service](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-4/03-arquitetura-de-software-camada-service/trybecar)_
 - [x] 4-4: _[Arquitetura de Software: Refatorando a Camada Service](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-4/04-arquitetura-de-software-refatorando-service/trybecar)_
 - [x] 4-5: _[Arquitetura de Software: Refatorando a Camada Controller](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-4/05-arquitetura-de-software-refatorando-controller/trybecar)_
-- [ ] 4-6: _[Projeto - Store Manager]()_
+- [x] 4-6: _[Projeto - Store Manager](https://github.com/vitor-m-cardoso/msc-express-mysql-docker-store-manager)_
 
 ### Seção 5: Node.js: ORM e Autenticação.
 
