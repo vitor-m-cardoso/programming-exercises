@@ -2,9 +2,16 @@ const booksService = require('../services/book.service');
 
 const error500Message = 'Internal server error!';
 
-const getAllBooks = async (_req, res) => {
+const getAllBooks = async (req, res) => {
+  const { author } = req.query;
   try {
-    const books = await booksService.getAllBooks();
+    let books = []
+    
+    if (author) {
+      books = await booksService.getBooksByAuthor(author);
+    } else {
+      books = await booksService.getAllBooks();
+    }
 
     return res.status(200).json(books);
   } catch (error) {

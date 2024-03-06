@@ -29,10 +29,19 @@ const validatePageQuantity = (req, res, next) => {
     return res.status(422).json({ message: '"pageQuantity" must be greater than or equal 0' });
   }
   next();
-}
+};
+
+const validatePublisher = (req, res, next) => {
+  const { publisher } = req.body;
+  if (!publisher) {
+    return res.status(404).json({ message: 'Missing "publisher"' });
+  }
+  next();
+};
 
 module.exports = {
   validateTitle,
   validateAuthor,
   validatePageQuantity,
+  validatePublisher,
 };
