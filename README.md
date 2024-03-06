@@ -168,7 +168,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 ### Seção 5: Node.js: ORM e Autenticação.
 
-- [ ] 5-1: _ORM - Interface da aplicação com o banco de dados_
+- [x] 5-1: _[ORM - Interface da aplicação com o banco de dados](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/01-ORM-interface-banco-de-dados)_
 - [ ] 5-1: _ORM - Associations 1:1 e 1:N_
 - [ ] 5-1: _ORM - Associations N:N e Transactions_
 - [ ] 5-1: _JWT - JSON Web Token_
