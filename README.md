@@ -171,7 +171,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 5-1: _[ORM - Interface da aplicação com o banco de dados](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/01-ORM-interface-banco-de-dados)_
 - [x] 5-1: _[ORM - Associations 1:1 e 1:N](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/02-ORM-associations-1-1-e-1-N)_
 - [x] 5-1: _[ORM - Associations N:N e Transactions](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/03-associations-NN-e-transactions)_
-- [ ] 5-1: _JWT - JSON Web Token_
+- [x] 5-1: _[JWT - JSON Web Token](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/04-json-web-token)_
 - [ ] 5-1: _[Projeto - API de Blogs]()_
 
 ### Seção 6: Masterclass: Implantação de Aplicações na Numvem.
