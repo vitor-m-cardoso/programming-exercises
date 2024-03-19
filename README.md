@@ -172,11 +172,11 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 5-1: _[ORM - Associations 1:1 e 1:N](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/02-ORM-associations-1-1-e-1-N)_
 - [x] 5-1: _[ORM - Associations N:N e Transactions](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/03-associations-NN-e-transactions)_
 - [x] 5-1: _[JWT - JSON Web Token](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/04-json-web-token)_
-- [ ] 5-1: _[Projeto - API de Blogs]()_
+- [x] 5-1: _[Projeto - API de Blogs](https://github.com/vitor-m-cardoso/sequelize-crud-blogs-api)_
 
 ### Seção 6: Masterclass: Implantação de Aplicações na Numvem.
 
-- [ ] 6-1: _Infraestrutura: Deploy com Railway_
+- [x] 6-1: _[Infraestrutura: Deploy com Railway]()_
 
 ### Seção 7: Introdução a TypeScript.
 
