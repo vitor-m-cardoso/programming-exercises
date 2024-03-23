@@ -180,7 +180,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 ### Seção 7: Introdução a TypeScript.
 
-- [ ] 7-1: _Aprendendo TypeScript_
+- [x] 7-1: _[Aprendendo TypeScript](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-6/01-aprendendo-typescript)_
 - [ ] 7-2: _Introdução a Generics_
 - [ ] 7-3: _API REST com Express, JWT, Sequelize e TypeScript_
 - [ ] 7-4: _Testando aplicações com TypeScript_
