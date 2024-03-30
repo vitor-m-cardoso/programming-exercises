@@ -1,0 +1,32 @@
+version: "3.1"
+
+services:
+  app-trybe-travel:
+    build: .
+    user: node
+    container_name: trybe_travel
+    command: npm run dev
+    image: exercise-trybe-travel:8.3
+    restart: always
+    volumes:
+      - ./:/app
+      - ./src:/app/src
+    depends_on:
+      - db
+    ports:
+      - 3001:3001
+    environment:
+      DB_USER: root
+      DB_PASSWORD: password
+      DB_HOST: db
+      DB_PORT: 3306
+      DB_NAME: trybe_travel
+      JWT_SECRET: secret
+  db:
+    container_name: trybe_travel_db
+    image: mysql:8.0.32
+    restart: always
+    ports:
+      - 3306:3306
+    environment:
+      MYSQL_ROOT_PASSWORD: password
