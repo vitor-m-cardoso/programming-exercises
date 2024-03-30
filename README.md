@@ -182,7 +182,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 - [x] 7-1: _[Aprendendo TypeScript](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-6/01-aprendendo-typescript)_
 - [x] 7-2: _[Introdução a Generics](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-6/02-introducao-generics)_
-- [ ] 7-3: _API REST com Express, JWT, Sequelize e TypeScript_
+- [x] 7-3: _[API REST com Express, JWT, Sequelize e TypeScript](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-6/03-api-rest-express-jwt-sequelize-ts)_
 - [ ] 7-4: _Testando aplicações com TypeScript_
 - [ ] 7-5: _[Projeto - Trybesmith]( )_
 
