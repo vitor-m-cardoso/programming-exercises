@@ -184,7 +184,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 7-2: _[Introdução a Generics](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-6/02-introducao-generics)_
 - [x] 7-3: _[API REST com Express, JWT, Sequelize e TypeScript](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-6/03-api-rest-express-jwt-sequelize-ts)_
 - [x] 7-4: _[Testando aplicações com TypeScript](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-6/04-testes-com-typescript/transactions-api-pt1)_
-- [ ] 7-5: _[Projeto - Trybesmith]( )_
+- [x] 7-5: _[Projeto - Trybesmith](https://github.com/vitor-m-cardoso/sequelize-typescript-oldsmith)_
 
 ### Seção 8: Programação Orientada a Objetos (POO) e SOLID.
 
