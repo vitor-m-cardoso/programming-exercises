@@ -188,7 +188,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 ### Seção 8: Programação Orientada a Objetos (POO) e SOLID.
 
-- [ ] 8-1: _Introdução à Orientação a Objetos_
+- [x] 8-1: _[Introdução à Orientação a Objetos](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-7/01-introducao-a-OO)_
 - [ ] 8-2: _Herança e Composição_
 - [ ] 8-3: _Polimorfismo_
 - [ ] 8-4: _SOLID - Introdução e Princípios S, O e D_
