@@ -49,19 +49,19 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 ### Seção 6: JavaScript ES6 & Testes Unitários.
 
-- [ ] 6-1: _Fluxo de exceções_
-- [ ] 6-2: _Primeiros passos em Jest_
-- [ ] 6-3: _Matchers e cobertura de código_
-- [ ] 6-4: _[Projeto - JavaScript Testes Unitários]()_
+- [x] 6-1: _[Fluxo de exceções](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/fundamentos/secao-6/01-fluxo-de-excecoes)_
+- [x] 6-2: _[Primeiros passos em Jest]()_
+- [x] 6-3: _[Matchers e cobertura de código]()_
+- [x] 6-4: _[Projeto - JavaScript Testes Unitários]()_
 
 ### Seção 7: Higher Order Functions do JavaScript ES6.
 
-- [ ] 7-1: _Introdução a Higher Order Functions_
-- [ ] 7-2: _Higher Order Functions - sort, map_
-- [ ] 7-3: _Higher Order Functions - filter e reduce_
-- [ ] 7-4: _JavaScript ES6 - spread operator, rest parameters e objet destructuring_
-- [ ] 7-5: _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
-- [ ] 7-6: _[Projeto - Zoo functions]()_
+- [x] 7-1: _[Introdução a Higher Order Functions]()_
+- [x] 7-2: _[Higher Order Functions - sort, map]()_
+- [x] 7-3: _[Higher Order Functions - filter e reduce]()_
+- [x] 7-4: _[JavaScript ES6 - spread operator, rest parameters e objet destructuring]()_
+- [x] 7-5: _[JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters]()_
+- [x] 7-6: _[Projeto - Zoo functions]()_
 
 ## Desenvolvimento Front-end ⏳
 
