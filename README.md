@@ -193,7 +193,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [ ] 8-3: _Polimorfismo_
 - [ ] 8-4: _SOLID - Introdução e Princípios S, O e D_
 - [ ] 8-5: _SOLID - Princípios L e I_
-- [ ] 8-6: _[Projeto - Trybers and Dragons]( )_
+- [x] 8-6: _[Projeto - Trybers and Dragons](https://github.com/vitor-m-cardoso/poo-solid-typescript-battles-and-dragons)_
 
 ### Seção 9: Projeto - TFC - Trybe Futebol Clube.
 
