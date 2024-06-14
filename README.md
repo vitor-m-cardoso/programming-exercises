@@ -174,11 +174,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 5-1: _[JWT - JSON Web Token](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/04-json-web-token)_
 - [x] 5-1: _[Projeto - API de Blogs](https://github.com/vitor-m-cardoso/sequelize-crud-blogs-api)_
 
-### Seção 6: Masterclass: Implantação de Aplicações na Numvem.
-
-- [x] 6-1: _[Infraestrutura: Deploy com Railway]()_
-
-### Seção 7: Introdução a TypeScript.
+### Seção 6: Introdução a TypeScript.
 
 - [x] 7-1: _[Aprendendo TypeScript](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-6/01-aprendendo-typescript)_
 - [x] 7-2: _[Introdução a Generics](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-6/02-introducao-generics)_
@@ -186,16 +182,16 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 7-4: _[Testando aplicações com TypeScript](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-6/04-testes-com-typescript/transactions-api-pt1)_
 - [x] 7-5: _[Projeto - Trybesmith](https://github.com/vitor-m-cardoso/sequelize-typescript-oldsmith)_
 
-### Seção 8: Programação Orientada a Objetos (POO) e SOLID.
+### Seção 7: Programação Orientada a Objetos (POO) e SOLID.
 
 - [x] 8-1: _[Introdução à Orientação a Objetos](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-7/01-introducao-a-OO)_
 - [x] 8-2: _[Herança e Composição](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-7/02-heranca-e-composicao)_
-- [ ] 8-3: _Polimorfismo_
+- [x] 8-3: _[Polimorfismo](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-7/03-polimorfismo)_
 - [ ] 8-4: _SOLID - Introdução e Princípios S, O e D_
 - [ ] 8-5: _SOLID - Princípios L e I_
 - [x] 8-6: _[Projeto - Trybers and Dragons](https://github.com/vitor-m-cardoso/poo-solid-typescript-battles-and-dragons)_
 
-### Seção 9: Projeto - TFC - Trybe Futebol Clube.
+### Seção 8: Projeto - TFC - Trybe Futebol Clube.
 
 - [ ] 9-1: _Express com Classes_
 - [ ] 9-2: _[Projeto - TFC - Trybe Futebol Clube]( )_
