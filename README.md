@@ -200,7 +200,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 ### Seção 1: Introdução à Python.
 
-- [ ] 1-1: _Aprendendo Python_
+- [x] 1-1: _[Aprendendo Python](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-1/01-aprendendo-python)_
 - [ ] 1-2: _Entrada e Saída de Dados com Testes_
 
 ### Seção 2: Algoritmos.
