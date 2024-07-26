@@ -1,0 +1,1527 @@
+[
+  {
+    "national_number": "004",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/charmander.png",
+      "large": "https://img.pokemondb.net/artwork/charmander.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif"
+    },
+    "name": "Charmander",
+    "type": [
+      "Fire"
+    ],
+    "total": 309,
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "sp_atk": 60,
+    "sp_def": 50,
+    "speed": 65
+  },
+  {
+    "national_number": "005",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/charmeleon.png",
+      "large": "https://img.pokemondb.net/artwork/charmeleon.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/charmeleon.gif"
+    },
+    "name": "Charmeleon",
+    "type": [
+      "Fire"
+    ],
+    "total": 405,
+    "hp": 58,
+    "attack": 64,
+    "defense": 58,
+    "sp_atk": 80,
+    "sp_def": 65,
+    "speed": 80
+  },
+  {
+    "national_number": "006",
+    "evolution": {
+      "name": "Mega Charizard X"
+    },
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/charizard.png",
+      "large": "https://img.pokemondb.net/artwork/charizard.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif"
+    },
+    "name": "Charizard",
+    "type": [
+      "Fire",
+      "Dragon"
+    ],
+    "total": 634,
+    "hp": 78,
+    "attack": 130,
+    "defense": 111,
+    "sp_atk": 130,
+    "sp_def": 85,
+    "speed": 100
+  },
+  {
+    "national_number": "006",
+    "evolution": {
+      "name": "Mega Charizard Y"
+    },
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/charizard.png",
+      "large": "https://img.pokemondb.net/artwork/charizard.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif"
+    },
+    "name": "Charizard",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "total": 634,
+    "hp": 78,
+    "attack": 104,
+    "defense": 78,
+    "sp_atk": 159,
+    "sp_def": 115,
+    "speed": 100
+  },
+  {
+    "national_number": "006",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/charizard.png",
+      "large": "https://img.pokemondb.net/artwork/charizard.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif"
+    },
+    "name": "Charizard",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "total": 534,
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "sp_atk": 109,
+    "sp_def": 85,
+    "speed": 100
+  },
+  {
+    "national_number": "037",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/vulpix.png",
+      "large": "https://img.pokemondb.net/artwork/vulpix.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/vulpix.gif"
+    },
+    "name": "Vulpix",
+    "type": [
+      "Fire"
+    ],
+    "total": 299,
+    "hp": 38,
+    "attack": 41,
+    "defense": 40,
+    "sp_atk": 50,
+    "sp_def": 65,
+    "speed": 65
+  },
+  {
+    "national_number": "038",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ninetales.png",
+      "large": "https://img.pokemondb.net/artwork/ninetales.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/ninetales.gif"
+    },
+    "name": "Ninetales",
+    "type": [
+      "Fire"
+    ],
+    "total": 505,
+    "hp": 73,
+    "attack": 76,
+    "defense": 75,
+    "sp_atk": 81,
+    "sp_def": 100,
+    "speed": 100
+  },
+  {
+    "national_number": "058",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/growlithe.png",
+      "large": "https://img.pokemondb.net/artwork/growlithe.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/growlithe.gif"
+    },
+    "name": "Growlithe",
+    "type": [
+      "Fire"
+    ],
+    "total": 350,
+    "hp": 55,
+    "attack": 70,
+    "defense": 45,
+    "sp_atk": 70,
+    "sp_def": 50,
+    "speed": 60
+  },
+  {
+    "national_number": "059",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/arcanine.png",
+      "large": "https://img.pokemondb.net/artwork/arcanine.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif"
+    },
+    "name": "Arcanine",
+    "type": [
+      "Fire"
+    ],
+    "total": 555,
+    "hp": 90,
+    "attack": 110,
+    "defense": 80,
+    "sp_atk": 100,
+    "sp_def": 80,
+    "speed": 95
+  },
+  {
+    "national_number": "077",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ponyta.png",
+      "large": "https://img.pokemondb.net/artwork/ponyta.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/ponyta.gif"
+    },
+    "name": "Ponyta",
+    "type": [
+      "Fire"
+    ],
+    "total": 410,
+    "hp": 50,
+    "attack": 85,
+    "defense": 55,
+    "sp_atk": 65,
+    "sp_def": 65,
+    "speed": 90
+  },
+  {
+    "national_number": "078",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/rapidash.png",
+      "large": "https://img.pokemondb.net/artwork/rapidash.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/rapidash.gif"
+    },
+    "name": "Rapidash",
+    "type": [
+      "Fire"
+    ],
+    "total": 500,
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "sp_atk": 80,
+    "sp_def": 80,
+    "speed": 105
+  },
+  {
+    "national_number": "105",
+    "evolution": {
+      "name": "Alolan Marowak"
+    },
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/marowak.png",
+      "large": "https://img.pokemondb.net/artwork/marowak.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/marowak.gif"
+    },
+    "name": "Marowak",
+    "type": [
+      "Fire",
+      "Ghost"
+    ],
+    "total": 425,
+    "hp": 60,
+    "attack": 80,
+    "defense": 110,
+    "sp_atk": 50,
+    "sp_def": 80,
+    "speed": 45
+  },
+  {
+    "national_number": "126",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/magmar.png",
+      "large": "https://img.pokemondb.net/artwork/magmar.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/magmar.gif"
+    },
+    "name": "Magmar",
+    "type": [
+      "Fire"
+    ],
+    "total": 495,
+    "hp": 65,
+    "attack": 95,
+    "defense": 57,
+    "sp_atk": 100,
+    "sp_def": 85,
+    "speed": 93
+  },
+  {
+    "national_number": "136",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/flareon.png",
+      "large": "https://img.pokemondb.net/artwork/flareon.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/flareon.gif"
+    },
+    "name": "Flareon",
+    "type": [
+      "Fire"
+    ],
+    "total": 525,
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "sp_atk": 95,
+    "sp_def": 110,
+    "speed": 65
+  },
+  {
+    "national_number": "146",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/moltres.png",
+      "large": "https://img.pokemondb.net/artwork/moltres.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/moltres.gif"
+    },
+    "name": "Moltres",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "total": 580,
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "sp_atk": 125,
+    "sp_def": 85,
+    "speed": 90
+  },
+  {
+    "national_number": "155",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/cyndaquil.png",
+      "large": "https://img.pokemondb.net/artwork/cyndaquil.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/cyndaquil.gif"
+    },
+    "name": "Cyndaquil",
+    "type": [
+      "Fire"
+    ],
+    "total": 309,
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "sp_atk": 60,
+    "sp_def": 50,
+    "speed": 65
+  },
+  {
+    "national_number": "156",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/quilava.png",
+      "large": "https://img.pokemondb.net/artwork/quilava.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/quilava.gif"
+    },
+    "name": "Quilava",
+    "type": [
+      "Fire"
+    ],
+    "total": 405,
+    "hp": 58,
+    "attack": 64,
+    "defense": 58,
+    "sp_atk": 80,
+    "sp_def": 65,
+    "speed": 80
+  },
+  {
+    "national_number": "157",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/typhlosion.png",
+      "large": "https://img.pokemondb.net/artwork/typhlosion.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/typhlosion.gif"
+    },
+    "name": "Typhlosion",
+    "type": [
+      "Fire"
+    ],
+    "total": 534,
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "sp_atk": 109,
+    "sp_def": 85,
+    "speed": 100
+  },
+  {
+    "national_number": "218",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/slugma.png",
+      "large": "https://img.pokemondb.net/artwork/slugma.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/slugma.gif"
+    },
+    "name": "Slugma",
+    "type": [
+      "Fire"
+    ],
+    "total": 250,
+    "hp": 40,
+    "attack": 40,
+    "defense": 40,
+    "sp_atk": 70,
+    "sp_def": 40,
+    "speed": 20
+  },
+  {
+    "national_number": "219",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/magcargo.png",
+      "large": "https://img.pokemondb.net/artwork/magcargo.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/magcargo.gif"
+    },
+    "name": "Magcargo",
+    "type": [
+      "Fire",
+      "Rock"
+    ],
+    "total": 430,
+    "hp": 60,
+    "attack": 50,
+    "defense": 120,
+    "sp_atk": 90,
+    "sp_def": 80,
+    "speed": 30
+  },
+  {
+    "national_number": "228",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/houndour.png",
+      "large": "https://img.pokemondb.net/artwork/houndour.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/houndour.gif"
+    },
+    "name": "Houndour",
+    "type": [
+      "Dark",
+      "Fire"
+    ],
+    "total": 330,
+    "hp": 45,
+    "attack": 60,
+    "defense": 30,
+    "sp_atk": 80,
+    "sp_def": 50,
+    "speed": 65
+  },
+  {
+    "national_number": "229",
+    "evolution": {
+      "name": "Mega Houndoom"
+    },
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/houndoom.png",
+      "large": "https://img.pokemondb.net/artwork/houndoom.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/houndoom.gif"
+    },
+    "name": "Houndoom",
+    "type": [
+      "Dark",
+      "Fire"
+    ],
+    "total": 600,
+    "hp": 75,
+    "attack": 90,
+    "defense": 90,
+    "sp_atk": 140,
+    "sp_def": 90,
+    "speed": 115
+  },
+  {
+    "national_number": "229",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/houndoom.png",
+      "large": "https://img.pokemondb.net/artwork/houndoom.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/houndoom.gif"
+    },
+    "name": "Houndoom",
+    "type": [
+      "Dark",
+      "Fire"
+    ],
+    "total": 500,
+    "hp": 75,
+    "attack": 90,
+    "defense": 50,
+    "sp_atk": 110,
+    "sp_def": 80,
+    "speed": 95
+  },
+  {
+    "national_number": "240",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/magby.png",
+      "large": "https://img.pokemondb.net/artwork/magby.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/magby.gif"
+    },
+    "name": "Magby",
+    "type": [
+      "Fire"
+    ],
+    "total": 365,
+    "hp": 45,
+    "attack": 75,
+    "defense": 37,
+    "sp_atk": 70,
+    "sp_def": 55,
+    "speed": 83
+  },
+  {
+    "national_number": "244",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/entei.png",
+      "large": "https://img.pokemondb.net/artwork/entei.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/entei.gif"
+    },
+    "name": "Entei",
+    "type": [
+      "Fire"
+    ],
+    "total": 580,
+    "hp": 115,
+    "attack": 115,
+    "defense": 85,
+    "sp_atk": 90,
+    "sp_def": 75,
+    "speed": 100
+  },
+  {
+    "national_number": "250",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ho-oh.png",
+      "large": "https://img.pokemondb.net/artwork/ho-oh.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/ho-oh.gif"
+    },
+    "name": "Ho-oh",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "total": 680,
+    "hp": 106,
+    "attack": 130,
+    "defense": 90,
+    "sp_atk": 110,
+    "sp_def": 154,
+    "speed": 90
+  },
+  {
+    "national_number": "255",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/torchic.png",
+      "large": "https://img.pokemondb.net/artwork/torchic.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/torchic.gif"
+    },
+    "name": "Torchic",
+    "type": [
+      "Fire"
+    ],
+    "total": 310,
+    "hp": 45,
+    "attack": 60,
+    "defense": 40,
+    "sp_atk": 70,
+    "sp_def": 50,
+    "speed": 45
+  },
+  {
+    "national_number": "256",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/combusken.png",
+      "large": "https://img.pokemondb.net/artwork/combusken.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/combusken.gif"
+    },
+    "name": "Combusken",
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "total": 405,
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "sp_atk": 85,
+    "sp_def": 60,
+    "speed": 55
+  },
+  {
+    "national_number": "257",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/blaziken.png",
+      "large": "https://img.pokemondb.net/artwork/blaziken.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/blaziken.gif"
+    },
+    "name": "Blaziken",
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "total": 530,
+    "hp": 80,
+    "attack": 120,
+    "defense": 70,
+    "sp_atk": 110,
+    "sp_def": 70,
+    "speed": 80
+  },
+  {
+    "national_number": "257",
+    "evolution": {
+      "name": "Mega Blaziken"
+    },
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/blaziken.png",
+      "large": "https://img.pokemondb.net/artwork/blaziken.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/blaziken.gif"
+    },
+    "name": "Blaziken",
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "total": 630,
+    "hp": 80,
+    "attack": 160,
+    "defense": 80,
+    "sp_atk": 130,
+    "sp_def": 80,
+    "speed": 100
+  },
+  {
+    "national_number": "322",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/numel.png",
+      "large": "https://img.pokemondb.net/artwork/numel.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/numel.gif"
+    },
+    "name": "Numel",
+    "type": [
+      "Fire",
+      "Ground"
+    ],
+    "total": 305,
+    "hp": 60,
+    "attack": 60,
+    "defense": 40,
+    "sp_atk": 65,
+    "sp_def": 45,
+    "speed": 35
+  },
+  {
+    "national_number": "323",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/camerupt.png",
+      "large": "https://img.pokemondb.net/artwork/camerupt.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/camerupt.gif"
+    },
+    "name": "Camerupt",
+    "type": [
+      "Fire",
+      "Ground"
+    ],
+    "total": 460,
+    "hp": 70,
+    "attack": 100,
+    "defense": 70,
+    "sp_atk": 105,
+    "sp_def": 75,
+    "speed": 40
+  },
+  {
+    "national_number": "323",
+    "evolution": {
+      "name": "Mega Camerupt"
+    },
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/camerupt.png",
+      "large": "https://img.pokemondb.net/artwork/camerupt.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/camerupt.gif"
+    },
+    "name": "Camerupt",
+    "type": [
+      "Fire",
+      "Ground"
+    ],
+    "total": 560,
+    "hp": 70,
+    "attack": 120,
+    "defense": 100,
+    "sp_atk": 145,
+    "sp_def": 105,
+    "speed": 20
+  },
+  {
+    "national_number": "324",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/torkoal.png",
+      "large": "https://img.pokemondb.net/artwork/torkoal.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/torkoal.gif"
+    },
+    "name": "Torkoal",
+    "type": [
+      "Fire"
+    ],
+    "total": 470,
+    "hp": 70,
+    "attack": 85,
+    "defense": 140,
+    "sp_atk": 85,
+    "sp_def": 70,
+    "speed": 20
+  },
+  {
+    "national_number": "383",
+    "evolution": {
+      "name": "Primal Groudon"
+    },
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/groudon.png",
+      "large": "https://img.pokemondb.net/artwork/groudon.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/groudon.gif"
+    },
+    "name": "Groudon",
+    "type": [
+      "Ground",
+      "Fire"
+    ],
+    "total": 770,
+    "hp": 100,
+    "attack": 180,
+    "defense": 160,
+    "sp_atk": 150,
+    "sp_def": 90,
+    "speed": 90
+  },
+  {
+    "national_number": "390",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/chimchar.png",
+      "large": "https://img.pokemondb.net/artwork/chimchar.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/chimchar.gif"
+    },
+    "name": "Chimchar",
+    "type": [
+      "Fire"
+    ],
+    "total": 309,
+    "hp": 44,
+    "attack": 58,
+    "defense": 44,
+    "sp_atk": 58,
+    "sp_def": 44,
+    "speed": 61
+  },
+  {
+    "national_number": "391",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/monferno.png",
+      "large": "https://img.pokemondb.net/artwork/monferno.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/monferno.gif"
+    },
+    "name": "Monferno",
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "total": 405,
+    "hp": 64,
+    "attack": 78,
+    "defense": 52,
+    "sp_atk": 78,
+    "sp_def": 52,
+    "speed": 81
+  },
+  {
+    "national_number": "392",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/infernape.png",
+      "large": "https://img.pokemondb.net/artwork/infernape.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/infernape.gif"
+    },
+    "name": "Infernape",
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "total": 534,
+    "hp": 76,
+    "attack": 104,
+    "defense": 71,
+    "sp_atk": 104,
+    "sp_def": 71,
+    "speed": 108
+  },
+  {
+    "national_number": "467",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/magmortar.png",
+      "large": "https://img.pokemondb.net/artwork/magmortar.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/magmortar.gif"
+    },
+    "name": "Magmortar",
+    "type": [
+      "Fire"
+    ],
+    "total": 540,
+    "hp": 75,
+    "attack": 95,
+    "defense": 67,
+    "sp_atk": 125,
+    "sp_def": 95,
+    "speed": 83
+  },
+  {
+    "national_number": "479",
+    "evolution": {
+      "name": "Heat Rotom"
+    },
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/rotom.png",
+      "large": "https://img.pokemondb.net/artwork/rotom.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/rotom.gif"
+    },
+    "name": "Rotom",
+    "type": [
+      "Electric",
+      "Fire"
+    ],
+    "total": 520,
+    "hp": 50,
+    "attack": 65,
+    "defense": 107,
+    "sp_atk": 105,
+    "sp_def": 107,
+    "speed": 86
+  },
+  {
+    "national_number": "485",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/heatran.png",
+      "large": "https://img.pokemondb.net/artwork/heatran.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/heatran.gif"
+    },
+    "name": "Heatran",
+    "type": [
+      "Fire",
+      "Steel"
+    ],
+    "total": 600,
+    "hp": 91,
+    "attack": 90,
+    "defense": 106,
+    "sp_atk": 130,
+    "sp_def": 106,
+    "speed": 77
+  },
+  {
+    "national_number": "494",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/victini.png",
+      "large": "https://img.pokemondb.net/artwork/victini.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/victini.gif"
+    },
+    "name": "Victini",
+    "type": [
+      "Psychic",
+      "Fire"
+    ],
+    "total": 600,
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "sp_atk": 100,
+    "sp_def": 100,
+    "speed": 100
+  },
+  {
+    "national_number": "498",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/tepig.png",
+      "large": "https://img.pokemondb.net/artwork/tepig.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/tepig.gif"
+    },
+    "name": "Tepig",
+    "type": [
+      "Fire"
+    ],
+    "total": 308,
+    "hp": 65,
+    "attack": 63,
+    "defense": 45,
+    "sp_atk": 45,
+    "sp_def": 45,
+    "speed": 45
+  },
+  {
+    "national_number": "499",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pignite.png",
+      "large": "https://img.pokemondb.net/artwork/pignite.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/pignite.gif"
+    },
+    "name": "Pignite",
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "total": 418,
+    "hp": 90,
+    "attack": 93,
+    "defense": 55,
+    "sp_atk": 70,
+    "sp_def": 55,
+    "speed": 55
+  },
+  {
+    "national_number": "500",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/emboar.png",
+      "large": "https://img.pokemondb.net/artwork/emboar.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/emboar.gif"
+    },
+    "name": "Emboar",
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "total": 528,
+    "hp": 110,
+    "attack": 123,
+    "defense": 65,
+    "sp_atk": 100,
+    "sp_def": 65,
+    "speed": 65
+  },
+  {
+    "national_number": "513",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pansear.png",
+      "large": "https://img.pokemondb.net/artwork/pansear.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/pansear.gif"
+    },
+    "name": "Pansear",
+    "type": [
+      "Fire"
+    ],
+    "total": 316,
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "sp_atk": 53,
+    "sp_def": 48,
+    "speed": 64
+  },
+  {
+    "national_number": "514",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/simisear.png",
+      "large": "https://img.pokemondb.net/artwork/simisear.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/simisear.gif"
+    },
+    "name": "Simisear",
+    "type": [
+      "Fire"
+    ],
+    "total": 498,
+    "hp": 75,
+    "attack": 98,
+    "defense": 63,
+    "sp_atk": 98,
+    "sp_def": 63,
+    "speed": 101
+  },
+  {
+    "national_number": "554",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/darumaka.png",
+      "large": "https://img.pokemondb.net/artwork/darumaka.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/darumaka.gif"
+    },
+    "name": "Darumaka",
+    "type": [
+      "Fire"
+    ],
+    "total": 315,
+    "hp": 70,
+    "attack": 90,
+    "defense": 45,
+    "sp_atk": 15,
+    "sp_def": 45,
+    "speed": 50
+  },
+  {
+    "national_number": "555",
+    "evolution": {
+      "name": "Zen Mode"
+    },
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/darmanitan.png",
+      "large": "https://img.pokemondb.net/artwork/darmanitan.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/darmanitan.gif"
+    },
+    "name": "Darmanitan",
+    "type": [
+      "Fire",
+      "Psychic"
+    ],
+    "total": 540,
+    "hp": 105,
+    "attack": 30,
+    "defense": 105,
+    "sp_atk": 140,
+    "sp_def": 105,
+    "speed": 55
+  },
+  {
+    "national_number": "555",
+    "evolution": {
+      "name": "Standard Mode"
+    },
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/darmanitan.png",
+      "large": "https://img.pokemondb.net/artwork/darmanitan.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/darmanitan.gif"
+    },
+    "name": "Darmanitan",
+    "type": [
+      "Fire"
+    ],
+    "total": 480,
+    "hp": 105,
+    "attack": 140,
+    "defense": 55,
+    "sp_atk": 30,
+    "sp_def": 55,
+    "speed": 95
+  },
+  {
+    "national_number": "607",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/litwick.png",
+      "large": "https://img.pokemondb.net/artwork/litwick.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/litwick.gif"
+    },
+    "name": "Litwick",
+    "type": [
+      "Ghost",
+      "Fire"
+    ],
+    "total": 275,
+    "hp": 50,
+    "attack": 30,
+    "defense": 55,
+    "sp_atk": 65,
+    "sp_def": 55,
+    "speed": 20
+  },
+  {
+    "national_number": "608",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/lampent.png",
+      "large": "https://img.pokemondb.net/artwork/lampent.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/lampent.gif"
+    },
+    "name": "Lampent",
+    "type": [
+      "Ghost",
+      "Fire"
+    ],
+    "total": 370,
+    "hp": 60,
+    "attack": 40,
+    "defense": 60,
+    "sp_atk": 95,
+    "sp_def": 60,
+    "speed": 55
+  },
+  {
+    "national_number": "609",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/chandelure.png",
+      "large": "https://img.pokemondb.net/artwork/chandelure.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/chandelure.gif"
+    },
+    "name": "Chandelure",
+    "type": [
+      "Ghost",
+      "Fire"
+    ],
+    "total": 520,
+    "hp": 60,
+    "attack": 55,
+    "defense": 90,
+    "sp_atk": 145,
+    "sp_def": 90,
+    "speed": 80
+  },
+  {
+    "national_number": "631",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/heatmor.png",
+      "large": "https://img.pokemondb.net/artwork/heatmor.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/heatmor.gif"
+    },
+    "name": "Heatmor",
+    "type": [
+      "Fire"
+    ],
+    "total": 484,
+    "hp": 85,
+    "attack": 97,
+    "defense": 66,
+    "sp_atk": 105,
+    "sp_def": 66,
+    "speed": 65
+  },
+  {
+    "national_number": "636",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/larvesta.png",
+      "large": "https://img.pokemondb.net/artwork/larvesta.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/larvesta.gif"
+    },
+    "name": "Larvesta",
+    "type": [
+      "Bug",
+      "Fire"
+    ],
+    "total": 360,
+    "hp": 55,
+    "attack": 85,
+    "defense": 55,
+    "sp_atk": 50,
+    "sp_def": 55,
+    "speed": 60
+  },
+  {
+    "national_number": "637",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/volcarona.png",
+      "large": "https://img.pokemondb.net/artwork/volcarona.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/volcarona.gif"
+    },
+    "name": "Volcarona",
+    "type": [
+      "Bug",
+      "Fire"
+    ],
+    "total": 550,
+    "hp": 85,
+    "attack": 60,
+    "defense": 65,
+    "sp_atk": 135,
+    "sp_def": 105,
+    "speed": 100
+  },
+  {
+    "national_number": "643",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/reshiram.png",
+      "large": "https://img.pokemondb.net/artwork/reshiram.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/reshiram.gif"
+    },
+    "name": "Reshiram",
+    "type": [
+      "Dragon",
+      "Fire"
+    ],
+    "total": 680,
+    "hp": 100,
+    "attack": 120,
+    "defense": 100,
+    "sp_atk": 150,
+    "sp_def": 120,
+    "speed": 90
+  },
+  {
+    "national_number": "653",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/fennekin.png",
+      "large": "https://img.pokemondb.net/artwork/fennekin.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/fennekin.gif"
+    },
+    "name": "Fennekin",
+    "type": [
+      "Fire"
+    ],
+    "total": 307,
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "sp_atk": 62,
+    "sp_def": 60,
+    "speed": 60
+  },
+  {
+    "national_number": "654",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/braixen.png",
+      "large": "https://img.pokemondb.net/artwork/braixen.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/braixen.gif"
+    },
+    "name": "Braixen",
+    "type": [
+      "Fire"
+    ],
+    "total": 409,
+    "hp": 59,
+    "attack": 59,
+    "defense": 58,
+    "sp_atk": 90,
+    "sp_def": 70,
+    "speed": 73
+  },
+  {
+    "national_number": "655",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/delphox.png",
+      "large": "https://img.pokemondb.net/artwork/delphox.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/delphox.gif"
+    },
+    "name": "Delphox",
+    "type": [
+      "Fire",
+      "Psychic"
+    ],
+    "total": 534,
+    "hp": 75,
+    "attack": 69,
+    "defense": 72,
+    "sp_atk": 114,
+    "sp_def": 100,
+    "speed": 104
+  },
+  {
+    "national_number": "662",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/fletchinder.png",
+      "large": "https://img.pokemondb.net/artwork/fletchinder.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/fletchinder.gif"
+    },
+    "name": "Fletchinder",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "total": 382,
+    "hp": 62,
+    "attack": 73,
+    "defense": 55,
+    "sp_atk": 56,
+    "sp_def": 52,
+    "speed": 84
+  },
+  {
+    "national_number": "663",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/talonflame.png",
+      "large": "https://img.pokemondb.net/artwork/talonflame.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/talonflame.gif"
+    },
+    "name": "Talonflame",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "total": 499,
+    "hp": 78,
+    "attack": 81,
+    "defense": 71,
+    "sp_atk": 74,
+    "sp_def": 69,
+    "speed": 126
+  },
+  {
+    "national_number": "667",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/litleo.png",
+      "large": "https://img.pokemondb.net/artwork/litleo.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/litleo.gif"
+    },
+    "name": "Litleo",
+    "type": [
+      "Fire",
+      "Normal"
+    ],
+    "total": 369,
+    "hp": 62,
+    "attack": 50,
+    "defense": 58,
+    "sp_atk": 73,
+    "sp_def": 54,
+    "speed": 72
+  },
+  {
+    "national_number": "668",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pyroar.png",
+      "large": "https://img.pokemondb.net/artwork/pyroar.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/pyroar.gif"
+    },
+    "name": "Pyroar",
+    "type": [
+      "Fire",
+      "Normal"
+    ],
+    "total": 507,
+    "hp": 86,
+    "attack": 68,
+    "defense": 72,
+    "sp_atk": 109,
+    "sp_def": 66,
+    "speed": 106
+  },
+  {
+    "national_number": "721",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/volcanion.png",
+      "large": "https://img.pokemondb.net/artwork/volcanion.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/volcanion.gif"
+    },
+    "name": "Volcanion",
+    "type": [
+      "Fire",
+      "Water"
+    ],
+    "total": 600,
+    "hp": 80,
+    "attack": 110,
+    "defense": 120,
+    "sp_atk": 130,
+    "sp_def": 90,
+    "speed": 70
+  },
+  {
+    "national_number": "725",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/litten.png",
+      "large": "https://img.pokemondb.net/artwork/litten.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/litten.gif"
+    },
+    "name": "Litten",
+    "type": [
+      "Fire"
+    ],
+    "total": 320,
+    "hp": 45,
+    "attack": 65,
+    "defense": 40,
+    "sp_atk": 60,
+    "sp_def": 40,
+    "speed": 70
+  },
+  {
+    "national_number": "726",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/torracat.png",
+      "large": "https://img.pokemondb.net/artwork/torracat.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/torracat.gif"
+    },
+    "name": "Torracat",
+    "type": [
+      "Fire"
+    ],
+    "total": 420,
+    "hp": 65,
+    "attack": 85,
+    "defense": 50,
+    "sp_atk": 80,
+    "sp_def": 50,
+    "speed": 90
+  },
+  {
+    "national_number": "727",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/incineroar.png",
+      "large": "https://img.pokemondb.net/artwork/incineroar.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/incineroar.gif"
+    },
+    "name": "Incineroar",
+    "type": [
+      "Fire",
+      "Dark"
+    ],
+    "total": 530,
+    "hp": 95,
+    "attack": 115,
+    "defense": 90,
+    "sp_atk": 80,
+    "sp_def": 90,
+    "speed": 60
+  },
+  {
+    "national_number": "741",
+    "evolution": {
+      "name": "Baile Style"
+    },
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/oricorio.png",
+      "large": "https://img.pokemondb.net/artwork/oricorio.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/oricorio.gif"
+    },
+    "name": "Oricorio",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "total": 476,
+    "hp": 75,
+    "attack": 70,
+    "defense": 70,
+    "sp_atk": 98,
+    "sp_def": 70,
+    "speed": 93
+  },
+  {
+    "national_number": "757",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/salandit.png",
+      "large": "https://img.pokemondb.net/artwork/salandit.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/salandit.gif"
+    },
+    "name": "Salandit",
+    "type": [
+      "Poison",
+      "Fire"
+    ],
+    "total": 320,
+    "hp": 48,
+    "attack": 44,
+    "defense": 40,
+    "sp_atk": 71,
+    "sp_def": 40,
+    "speed": 77
+  },
+  {
+    "national_number": "758",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/salazzle.png",
+      "large": "https://img.pokemondb.net/artwork/salazzle.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/salazzle.gif"
+    },
+    "name": "Salazzle",
+    "type": [
+      "Poison",
+      "Fire"
+    ],
+    "total": 480,
+    "hp": 68,
+    "attack": 64,
+    "defense": 60,
+    "sp_atk": 111,
+    "sp_def": 60,
+    "speed": 117
+  },
+  {
+    "national_number": "776",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/turtonator.png",
+      "large": "https://img.pokemondb.net/artwork/turtonator.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/turtonator.gif"
+    },
+    "name": "Turtonator",
+    "type": [
+      "Fire",
+      "Dragon"
+    ],
+    "total": 485,
+    "hp": 60,
+    "attack": 78,
+    "defense": 135,
+    "sp_atk": 91,
+    "sp_def": 85,
+    "speed": 36
+  },
+  {
+    "national_number": "806",
+    "evolution": null,
+    "sprites": {
+      "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/blacephalon.png",
+      "large": "https://img.pokemondb.net/artwork/blacephalon.jpg",
+      "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/blacephalon.gif"
+    },
+    "name": "Blacephalon",
+    "type": [
+      "Fire",
+      "Ghost"
+    ],
+    "total": 570,
+    "hp": 53,
+    "attack": 127,
+    "defense": 53,
+    "sp_atk": 151,
+    "sp_def": 79,
+    "speed": 107
+  }
+]
