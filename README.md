@@ -3,8 +3,7 @@
 Este repositório contém todos os exercícios e projetos realizados ao longo dos meus estudos. Os exercícios e projetos comprovam o aprendizado, boas práticas no desenvolvimento, a capacidade de desenvolver códigos e capacidade de solucionar problemas com as ferramentas utilizadas.
 - desenvolvido por: _[Vitor Mauricio Cardoso](https://www.linkedin.com/in/vitormcardoso/)_
 
-## Fundamentos do Desenvolvimento Web ⏳
-
+## Fundamentos do Desenvolvimento Web ✅
 ### Seção 1: Unix, Shell e Git.
 
 - [x] 1-1: _[Unix & Shell]( )_
@@ -130,7 +129,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 - [ ] 9-1: _[Projeto - App de Receitas](https://vitor-m-cardoso.github.io/recipes-app/)_
 
-## Desenvolvimento Back-end ⏳
+## Desenvolvimento Back-end ✅
 
 ### Seção 1: Docker: Utilizando Containers.
 
@@ -205,9 +204,9 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 ### Seção 2: Algoritmos.
 
-- [ ] 2-1: _Complexidade de Algoritmos_
-- [ ] 2-2: _Recursividade e Estratégias para solução de problemas_
-- [ ] 2-3: _Algoritmos de ordenação e busca_
+- [ ] 2-1: _[Complexidade de Algoritmos](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-2/01-complexidade-de-algoritmos)_
+- [ ] 2-2: _[Recursividade e Estratégias para solução de problemas](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-2/02-recursividade)_
+- [ ] 2-3: _[Algoritmos de ordenação e busca](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-2/03-algoritmos-de-ordenacao-e-busca/exercises-pt1)_
 - [ ] 2-4: _[Projeto - Algoritmos]( )_
 
 ### Seção 3: Estrutura de Dados I: Listas Lineares.
