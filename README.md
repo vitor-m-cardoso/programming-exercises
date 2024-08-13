@@ -207,7 +207,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 2-1: _[Complexidade de Algoritmos](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-2/01-complexidade-de-algoritmos)_
 - [x] 2-2: _[Recursividade e Estratégias para solução de problemas](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-2/02-recursividade)_
 - [x] 2-3: _[Algoritmos de ordenação e busca](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-2/03-algoritmos-de-ordenacao-e-busca/exercises-pt1)_
-- [ ] 2-4: _[Projeto - Algoritmos]( )_
+- [x] 2-4: _[Projeto - Algoritmos](https://github.com/vitor-m-cardoso/python-algorithms)_
 
 ### Seção 3: Estrutura de Dados I: Listas Lineares.
 
