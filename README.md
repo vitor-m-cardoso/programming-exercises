@@ -168,10 +168,10 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 ### Seção 5: Node.js: ORM e Autenticação.
 
 - [x] 5-1: _[ORM - Interface da aplicação com o banco de dados](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/01-ORM-interface-banco-de-dados)_
-- [x] 5-1: _[ORM - Associations 1:1 e 1:N](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/02-ORM-associations-1-1-e-1-N)_
-- [x] 5-1: _[ORM - Associations N:N e Transactions](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/03-associations-NN-e-transactions)_
-- [x] 5-1: _[JWT - JSON Web Token](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/04-json-web-token)_
-- [x] 5-1: _[Projeto - API de Blogs](https://github.com/vitor-m-cardoso/sequelize-crud-blogs-api)_
+- [x] 5-2: _[ORM - Associations 1:1 e 1:N](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/02-ORM-associations-1-1-e-1-N)_
+- [x] 5-3: _[ORM - Associations N:N e Transactions](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/03-associations-NN-e-transactions)_
+- [x] 5-4: _[JWT - JSON Web Token](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/back-end/secao-5/04-json-web-token)_
+- [x] 5-5: _[Projeto - API de Blogs](https://github.com/vitor-m-cardoso/sequelize-crud-blogs-api)_
 
 ### Seção 6: Introdução a TypeScript.
 
