@@ -225,7 +225,57 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 ## Desenvolvimento com Java ⏳
 
-- [...]
+### Seção 1: Fundamentos de Java.
+
+- [x] 1-1: _[Introdução ao Desenvolvimento em Java e Ferramentas Essenciais]( )_
+- [x] 1-2: _[Classes e Tipos de Dados]_
+- [ ] 1-3: _[Controle de Fluxo e Entrada de Dados]_
+- [ ] 1-4: _[Gerenciamento de dependências]_
+- [ ] 1-5: _[Projeto - Regra de Progressão]_
+
+### Seção 2: Orientação a Objetos.
+
+- [ ] 2-1: _[Abstração e Encapsulamento]_
+- [ ] 2-2: _[Herança e Polimorfismo]_
+- [ ] 2-3: _[Classes Abstratas e Interfaces]_
+- [ ] 2-4: _[Coleções]_
+- [ ] 2-5: _[Projeto - Sistema de Votação]_
+
+### Seção 3: Java Web.
+
+- [ ] 3-1: _[Introdução a Java Web e Spring]_
+- [ ] 3-2: _[Injeção de dependência com Spring]_
+- [ ] 3-3: _[API REST com Spring]_
+- [ ] 3-4: _[Exceções]_
+- [ ] 3-5: _[Testes com JUnit]_
+- [ ] 3-6: _[Containers Java e Docker]_
+- [ ] 3-7: _[Projeto - Localizador de Museus]_
+
+### Seção 4: Persistência I.
+
+- [ ] 4-1: _[Spring Data JPA]_
+- [ ] 4-2: _[Spring Data Relacionamentos]_
+- [ ] 4-3: _[Projeto - Agrix Fase A]_
+
+### Seção 5: Persistência II.
+
+- [ ] 5-1: _[Testes com Spring Data]_
+- [ ] 5-2: _[Data, Hora e Validação de Dados]_
+- [ ] 5-3: _[Buscas customizadas]_
+- [ ] 5-4: _[Auditoria]_
+- [ ] 5-5: _[Projeto - Agrix Fase B]_
+
+### Seção 6: Spring Security.
+
+- [ ] 6-1: _[Autenticação]_
+- [ ] 6-2: _[Autenticação e JWT]_
+- [ ] 6-3: _[Autorização]_
+- [ ] 6-4: _[Projeto - Agrix Fase C]_
+
+### Seção 7: Deploy.
+
+- [ ] 7-1: _[Protocolos de computação e programação em nuvem]_
+- [ ] 7-2: _[CI/CD]_
 
 ## Desenvolvimento com C# ⏳
 
