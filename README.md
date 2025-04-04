@@ -230,7 +230,7 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 - [x] 1-1: _[Introdução ao Desenvolvimento em Java e Ferramentas Essenciais]( )_
 - [x] 1-2: _[Classes e Tipos de Dados]( )_
 - [x] 1-3: _[Controle de Fluxo e Entrada de Dados](https://github.com/vitor-m-cardoso/java-intelligent-school)_
-- [ ] 1-4: _[Gerenciamento de dependências]_
+- [x] 1-4: _[Gerenciamento de dependências](https://github.com/vitor-m-cardoso/java-simple-bank-account-formatter)_
 - [ ] 1-5: _[Projeto - Regra de Progressão]_
 
 ### Seção 2: Orientação a Objetos.
