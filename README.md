@@ -201,27 +201,45 @@ Este repositório contém todos os exercícios e projetos realizados ao longo do
 
 - [x] 1-1: _[Aprendendo Python](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-1/01-aprendendo-python)_
 - [x] 1-2: _[Entrada e Saída de Dados com Testes](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-1/02-entrada-saida-de-dados-com-testes)_
+- [ ] 1-3: _Testes_
+- [ ] 1-4: _[Projeto - Job Insights]()_
 
-### Seção 2: Algoritmos.
+### Seção 2: Padrões de Projeto.
 
-- [x] 2-1: _[Complexidade de Algoritmos](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-2/01-complexidade-de-algoritmos)_
-- [x] 2-2: _[Recursividade e Estratégias para solução de problemas](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-2/02-recursividade)_
-- [x] 2-3: _[Algoritmos de ordenação e busca](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-2/03-algoritmos-de-ordenacao-e-busca/exercises-pt1)_
-- [x] 2-4: _[Projeto - Algoritmos](https://github.com/vitor-m-cardoso/python-algorithms)_
+- [ ] 2-1: _P.O.O em Python_
+- [ ] 2-2: _Padrões - Iterator, Adapter, Strategy_
+- [ ] 2-3: _Padrões - Decorator, Observer, Factory_
+- [ ] 2-4: _Projeto - Relatórios de Estoque()_
 
-### Seção 3: Estrutura de Dados I: Listas Lineares.
+### Seção 3: Raspagem de dados.
 
-- [ ] 3-1: _P.O.O em Python_
-- [ ] 3-2: _Arrays_
-- [ ] 3-3: _Nó e Listas Encadeadas_
-- [ ] 3-4: _Pilhas e Filas_
-- [ ] 3-5: _[Projeto TING - Trybe Is Not Google]( )_
+- [ ] 3-1: _Raspagem de dados_
+- [ ] 3-2: _Outras ferramentas de Raspagem de Dados_
+- [ ] 3-3: _Crawlers + POO_
+- [ ] 3-4: _[Projeto - Tech news]()_
 
-### Seção 4: Estrutura de Dados II: Hashmaps e Sets.
+### Seção 4: Algoritmos.
 
-- [ ] 4-1: _Hashmap e Dict_
-- [ ] 4-2: _Set_
-- [ ] 4-3: _[Projeto Restaurant Orders]( )_
+- [x] 4-1: _[Complexidade de Algoritmos](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-2/01-complexidade-de-algoritmos)_
+- [x] 4-2: _[Recursividade e Estratégias para solução de problemas](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-2/02-recursividade)_
+- [x] 4-3: _[Algoritmos de ordenação e busca](https://github.com/vitor-m-cardoso/programming-exercises/tree/main/ciencia-da-computacao/secao-2/03-algoritmos-de-ordenacao-e-busca/exercises-pt1)_
+- [x] 4-4: _[Projeto - Algoritmos](https://github.com/vitor-m-cardoso/python-algorithms)_
+
+### Seção 5: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas.
+
+- [ ] 5-1: _Arquitetura de computadores_
+- [ ] 5-2: _Arquitetura de redes_
+- [ ] 5-3: _Arrays_
+- [ ] 5-4: _Nó e Listas Encadeadas_
+- [ ] 5-5: _Pilhas e Filas_
+- [ ] 5-6: _[Projeto TING - Trybe Is Not Google]( )_
+
+### Seção 6: Estrutura de Dados II: Hashmaps e Sets.
+
+- [ ] 6-1: _Hashmap e Dict_
+- [ ] 6-2: _Set_
+- [ ] 6-3: _Pandas_
+- [ ] 6-3: _[Projeto Restaurant Orders]( )_
 
 ## Desenvolvimento com Java ⏳
 
